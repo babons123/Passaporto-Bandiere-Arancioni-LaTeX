@@ -1,0 +1,3326 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.15)  22 MAR 2025 14:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+(c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(c:/texlive/2024/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(c:/texlive/2024/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count268
+\svg@box=\box52
+\c@svg@param@currpage=\count269
+)
+(c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2022-10-27 v1.5 Transparency with color stacks
+
+(c:/texlive/2024/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2022-10-27 v1.5 Transparency via pdfTeX's color
+ stack (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)))
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen144
+\pgfutil@tempdimb=\dimen145
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
+\pgf@xd=\dimen154
+\pgf@yd=\dimen155
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count270
+\c@pgf@countb=\count271
+\c@pgf@countc=\count272
+\c@pgf@countd=\count273
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count274
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count275
+\pgfsyssoftpath@bigbuffer@items=\count276
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks27
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count280
+)
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+(c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count282
+\Hy@pagecounter=\count283
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count284
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count285
+
+(c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen165
+
+(c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count286
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count287
+\c@Item=\count288
+\c@Hfootnote=\count289
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen168
+\enit@toks=\toks29
+\enit@inbox=\box54
+\enit@count@id=\count292
+\enitdp@description=\count293
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+(c:/texlive/2024/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box55
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count295
+\scratchdimen=\dimen169
+\scratchbox=\box56
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen170
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks31
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 526.376pt, 42.67912pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=526.376pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=20.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 25.
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+<Immagini Regione/Valle d'Aosta.png, id=20, 462.528pt x 346.896pt>
+File: Immagini Regione/Valle d'Aosta.png Graphic file (type png)
+<use Immagini Regione/Valle d'Aosta.png>
+Package pdftex.def Info: Immagini Regione/Valle d'Aosta.png  used on input line
+ 43.
+(pdftex.def)             Requested size: 364.1953pt x 273.16086pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./Immagini Regione/Valle d'Aosta.png>]
+<Valle d'Aosta/Etroubles-Stemma.png, id=28, 391.4625pt x 502.87875pt>
+File: Valle d'Aosta/Etroubles-Stemma.png Graphic file (type png)
+<use Valle d'Aosta/Etroubles-Stemma.png>
+Package pdftex.def Info: Valle d'Aosta/Etroubles-Stemma.png  used on input line
+ 55.
+(pdftex.def)             Requested size: 113.80792pt x 142.26302pt.
+<Valle d'Aosta/Gressoney-Saint-Jean-Stemma.png, id=29, 500.87125pt x 642.4pt>
+File: Valle d'Aosta/Gressoney-Saint-Jean-Stemma.png Graphic file (type png)
+<use Valle d'Aosta/Gressoney-Saint-Jean-Stemma.png>
+Package pdftex.def Info: Valle d'Aosta/Gressoney-Saint-Jean-Stemma.png  used on
+ input line 70.
+(pdftex.def)             Requested size: 113.80699pt x 142.25964pt.
+<Valle d'Aosta/Introd-Stemma.png, id=30, 391.4625pt x 502.87875pt>
+File: Valle d'Aosta/Introd-Stemma.png Graphic file (type png)
+<use Valle d'Aosta/Introd-Stemma.png>
+Package pdftex.def Info: Valle d'Aosta/Introd-Stemma.png  used on input line 88
+.
+(pdftex.def)             Requested size: 113.80792pt x 142.26302pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4 <./Valle d'Aosta/Etroubles-Stemma.png> <./Valle d'Aosta/Gressoney-Saint-Jean
+-Stemma.png> <./Valle d'Aosta/Introd-Stemma.png>]
+<Immagini Regione/Sicilia.png, id=39, 462.528pt x 346.896pt>
+File: Immagini Regione/Sicilia.png Graphic file (type png)
+<use Immagini Regione/Sicilia.png>
+Package pdftex.def Info: Immagini Regione/Sicilia.png  used on input line 107.
+(pdftex.def)             Requested size: 364.1953pt x 273.16086pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./Immagini Regione/Sicilia.png>]
+<Sicilia/Petralia_Sottana-Stemma.png, id=46, 401.5pt x 450.68375pt>
+File: Sicilia/Petralia_Sottana-Stemma.png Graphic file (type png)
+<use Sicilia/Petralia_Sottana-Stemma.png>
+Package pdftex.def Info: Sicilia/Petralia_Sottana-Stemma.png  used on input lin
+e 119.
+(pdftex.def)             Requested size: 113.80992pt x 142.26183pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./Sicilia/Petralia_Sottana-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+<Molise/Agnone-Stemma.png, id=58, 803.0pt x 1022.82124pt>
+File: Molise/Agnone-Stemma.png Graphic file (type png)
+<use Molise/Agnone-Stemma.png>
+Package pdftex.def Info: Molise/Agnone-Stemma.png  used on input line 145.
+(pdftex.def)             Requested size: 113.80379pt x 142.25757pt.
+<Molise/Ferrazzano-Stemma.png, id=59, 1121.18875pt x 1610.015pt>
+File: Molise/Ferrazzano-Stemma.png Graphic file (type png)
+<use Molise/Ferrazzano-Stemma.png>
+Package pdftex.def Info: Molise/Ferrazzano-Stemma.png  used on input line 160.
+(pdftex.def)             Requested size: 113.80202pt x 142.24188pt.
+<Molise/Frosolone-Stemma.png, id=60, 460.72125pt x 501.875pt>
+File: Molise/Frosolone-Stemma.png Graphic file (type png)
+<use Molise/Frosolone-Stemma.png>
+Package pdftex.def Info: Molise/Frosolone-Stemma.png  used on input line 179.
+(pdftex.def)             Requested size: 113.80917pt x 142.26239pt.
+<Molise/Roccamandolfi-Stemma.png, id=61, 362.35374pt x 501.875pt>
+File: Molise/Roccamandolfi-Stemma.png Graphic file (type png)
+<use Molise/Roccamandolfi-Stemma.png>
+Package pdftex.def Info: Molise/Roccamandolfi-Stemma.png  used on input line 19
+4.
+(pdftex.def)             Requested size: 113.81029pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./Molise/Agnone-Stemma.png> <./Molise/Ferrazzano-Stemma.png> <./Molise/Fros
+olone-Stemma.png> <./Molise/Roccamandolfi-Stemma.png>]
+<Molise/Scapoli-Stemma.png, id=70, 362.35374pt x 501.875pt>
+File: Molise/Scapoli-Stemma.png Graphic file (type png)
+<use Molise/Scapoli-Stemma.png>
+Package pdftex.def Info: Molise/Scapoli-Stemma.png  used on input line 213.
+(pdftex.def)             Requested size: 113.81029pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./Molise/Scapoli-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+<Campania/Cerreto_Sannita-Stemma.png, id=81, 411.5375pt x 501.875pt>
+File: Campania/Cerreto_Sannita-Stemma.png Graphic file (type png)
+<use Campania/Cerreto_Sannita-Stemma.png>
+Package pdftex.def Info: Campania/Cerreto_Sannita-Stemma.png  used on input lin
+e 235.
+(pdftex.def)             Requested size: 113.81053pt x 142.26239pt.
+<Campania/Letino-Stemma.png, id=82, 803.0pt x 1029.8475pt>
+File: Campania/Letino-Stemma.png Graphic file (type png)
+<use Campania/Letino-Stemma.png>
+Package pdftex.def Info: Campania/Letino-Stemma.png  used on input line 251.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Campania/Morigerati-Stemma.png, id=83, 380.42125pt x 501.875pt>
+File: Campania/Morigerati-Stemma.png Graphic file (type png)
+<use Campania/Morigerati-Stemma.png>
+Package pdftex.def Info: Campania/Morigerati-Stemma.png  used on input line 269
+.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Campania/Sant'Agata_de'_Goti-Stemma.png, id=84, 482.80376pt x 519.9425pt>
+File: Campania/Sant'Agata_de'_Goti-Stemma.png Graphic file (type png)
+<use Campania/Sant'Agata_de'_Goti-Stemma.png>
+Package pdftex.def Info: Campania/Sant'Agata_de'_Goti-Stemma.png  used on input
+ line 285.
+(pdftex.def)             Requested size: 113.80515pt x 142.2587pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./Campania/Cerreto_Sannita-Stemma.png> <./Campania/Letino-Stemma.png> <./C
+ampania/Morigerati-Stemma.png> <./Campania/Sant'Agata_de'_Goti-Stemma.png>]
+<Campania/Zungoli-Stemma.png, id=93, 414.54875pt x 501.875pt>
+File: Campania/Zungoli-Stemma.png Graphic file (type png)
+<use Campania/Zungoli-Stemma.png>
+Package pdftex.def Info: Campania/Zungoli-Stemma.png  used on input line 303.
+(pdftex.def)             Requested size: 113.80832pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12 <./Campania/Zungoli-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+<Calabria/Bova-Stemma.png, id=105, 408.52625pt x 501.875pt>
+File: Calabria/Bova-Stemma.png Graphic file (type png)
+<use Calabria/Bova-Stemma.png>
+Package pdftex.def Info: Calabria/Bova-Stemma.png  used on input line 325.
+(pdftex.def)             Requested size: 113.80684pt x 142.26239pt.
+<Calabria/Civita-Stemma.png, id=106, 380.42125pt x 501.875pt>
+File: Calabria/Civita-Stemma.png Graphic file (type png)
+<use Calabria/Civita-Stemma.png>
+Package pdftex.def Info: Calabria/Civita-Stemma.png  used on input line 341.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Calabria/Gerace-Stemma.png, id=107, 403.5075pt x 622.325pt>
+File: Calabria/Gerace-Stemma.png Graphic file (type png)
+<use Calabria/Gerace-Stemma.png>
+Package pdftex.def Info: Calabria/Gerace-Stemma.png  used on input line 359.
+(pdftex.def)             Requested size: 113.81252pt x 142.2581pt.
+<Calabria/Morano_Calabro-Stemma.png, id=108, 199.74625pt x 240.9pt>
+File: Calabria/Morano_Calabro-Stemma.png Graphic file (type png)
+<use Calabria/Morano_Calabro-Stemma.png>
+Package pdftex.def Info: Calabria/Morano_Calabro-Stemma.png  used on input line
+ 375.
+(pdftex.def)             Requested size: 113.81082pt x 142.26576pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./Calabria/Bova-Stemma.png> <./Calabria/Civita-Stemma.png> <./Calabria/Ger
+ace-Stemma.png> <./Calabria/Morano_Calabro-Stemma.png>]
+<Calabria/Oriolo-Stemma.png, id=117, 200.75pt x 290.08376pt>
+File: Calabria/Oriolo-Stemma.png Graphic file (type png)
+<use Calabria/Oriolo-Stemma.png>
+Package pdftex.def Info: Calabria/Oriolo-Stemma.png  used on input line 393.
+(pdftex.def)             Requested size: 113.81297pt x 142.26178pt.
+<Calabria/Taverna-Stemma.png, id=118, 429.605pt x 501.875pt>
+File: Calabria/Taverna-Stemma.png Graphic file (type png)
+<use Calabria/Taverna-Stemma.png>
+Package pdftex.def Info: Calabria/Taverna-Stemma.png  used on input line 409.
+(pdftex.def)             Requested size: 113.80545pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15 <./Calabria/Oriolo-Stemma.png> <./Calabria/Taverna-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+<Immagini Regione/abruzzo_map_legend.png, id=130, 372.1905pt x 281.1303pt>
+File: Immagini Regione/abruzzo_map_legend.png Graphic file (type png)
+<use Immagini Regione/abruzzo_map_legend.png>
+Package pdftex.def Info: Immagini Regione/abruzzo_map_legend.png  used on input
+ line 425.
+(pdftex.def)             Requested size: 364.1953pt x 275.0897pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17 <./Immagini Regione/abruzzo_map_legend.png>]
+<Immagini Regione/abruzzo_map_with_pins.png, id=136, 233.4321pt x 215.3646pt>
+File: Immagini Regione/abruzzo_map_with_pins.png Graphic file (type png)
+<use Immagini Regione/abruzzo_map_with_pins.png>
+Package pdftex.def Info: Immagini Regione/abruzzo_map_with_pins.png  used on in
+put line 431.
+(pdftex.def)             Requested size: 364.1953pt x 336.04298pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18 <./Immagini Regione/abruzzo_map_with_pins.png>]
+<Abruzzo/Civitella_Alfedena-Stemma.png, id=142, 368.37625pt x 501.875pt>
+File: Abruzzo/Civitella_Alfedena-Stemma.png Graphic file (type png)
+<use Abruzzo/Civitella_Alfedena-Stemma.png>
+Package pdftex.def Info: Abruzzo/Civitella_Alfedena-Stemma.png  used on input l
+ine 443.
+(pdftex.def)             Requested size: 113.8076pt x 142.26239pt.
+<Abruzzo/Fara_San_Martino-Stemma.png, id=143, 393.47pt x 501.875pt>
+File: Abruzzo/Fara_San_Martino-Stemma.png Graphic file (type png)
+<use Abruzzo/Fara_San_Martino-Stemma.png>
+Package pdftex.def Info: Abruzzo/Fara_San_Martino-Stemma.png  used on input lin
+e 459.
+(pdftex.def)             Requested size: 113.80917pt x 142.26239pt.
+<Abruzzo/Lama_dei_Peligni-Stemma.png, id=144, 365.365pt x 501.875pt>
+File: Abruzzo/Lama_dei_Peligni-Stemma.png Graphic file (type png)
+<use Abruzzo/Lama_dei_Peligni-Stemma.png>
+Package pdftex.def Info: Abruzzo/Lama_dei_Peligni-Stemma.png  used on input lin
+e 477.
+(pdftex.def)             Requested size: 113.80832pt x 142.26239pt.
+<Abruzzo/Opi-Stemma.png, id=145, 380.42125pt x 501.875pt>
+File: Abruzzo/Opi-Stemma.png Graphic file (type png)
+<use Abruzzo/Opi-Stemma.png>
+Package pdftex.def Info: Abruzzo/Opi-Stemma.png  used on input line 493.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19 <./Abruzzo/Civitella_Alfedena-Stemma.png> <./Abruzzo/Fara_San_Martino-Stemm
+a.png> <./Abruzzo/Lama_dei_Peligni-Stemma.png> <./Abruzzo/Opi-Stemma.png>]
+<Abruzzo/Palena-Stemma.png, id=155, 365.365pt x 501.875pt>
+File: Abruzzo/Palena-Stemma.png Graphic file (type png)
+<use Abruzzo/Palena-Stemma.png>
+Package pdftex.def Info: Abruzzo/Palena-Stemma.png  used on input line 511.
+(pdftex.def)             Requested size: 113.80832pt x 142.26239pt.
+<Abruzzo/Roccascalegna-Stemma.png, id=156, 108.405pt x 160.6pt>
+File: Abruzzo/Roccascalegna-Stemma.png Graphic file (type png)
+<use Abruzzo/Roccascalegna-Stemma.png>
+Package pdftex.def Info: Abruzzo/Roccascalegna-Stemma.png  used on input line 5
+27.
+(pdftex.def)             Requested size: 113.81702pt x 142.26698pt.
+<Abruzzo/Scanno-Stemma.png, id=157, 380.42125pt x 501.875pt>
+File: Abruzzo/Scanno-Stemma.png Graphic file (type png)
+<use Abruzzo/Scanno-Stemma.png>
+Package pdftex.def Info: Abruzzo/Scanno-Stemma.png  used on input line 544.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20 <./Abruzzo/Palena-Stemma.png> <./Abruzzo/Roccascalegna-Stemma.png> <./Abruz
+zo/Scanno-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+<Sardegna/Stemma Aggius.png, id=170, 436.63126pt x 575.14874pt>
+File: Sardegna/Stemma Aggius.png Graphic file (type png)
+<use Sardegna/Stemma Aggius.png>
+Package pdftex.def Info: Sardegna/Stemma Aggius.png  used on input line 566.
+(pdftex.def)             Requested size: 113.80792pt x 142.2598pt.
+<Sardegna/Stemma Galtellì.png, id=171, 305.14pt x 496.85625pt>
+File: Sardegna/Stemma Galtellì.png Graphic file (type png)
+<use Sardegna/Stemma Galtellì.png>
+Package pdftex.def Info: Sardegna/Stemma Galtellì.png  used on input line 582.
+
+(pdftex.def)             Requested size: 113.8126pt x 145.10811pt.
+<Sardegna/Stemma Gavoi.png, id=172, 380.42125pt x 501.875pt>
+File: Sardegna/Stemma Gavoi.png Graphic file (type png)
+<use Sardegna/Stemma Gavoi.png>
+Package pdftex.def Info: Sardegna/Stemma Gavoi.png  used on input line 600.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Sardegna/Stemma Laconi.png, id=173, 199.74625pt x 254.9525pt>
+File: Sardegna/Stemma Laconi.png Graphic file (type png)
+<use Sardegna/Stemma Laconi.png>
+Package pdftex.def Info: Sardegna/Stemma Laconi.png  used on input line 616.
+(pdftex.def)             Requested size: 113.81082pt x 142.27057pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22 <./Sardegna/Stemma Aggius.png> <./Sardegna/Stemma Galtellì.png> <./Sardegn
+a/Stemma Gavoi.png> <./Sardegna/Stemma Laconi.png>]
+<Sardegna/Stemma Oliena.png, id=182, 380.42125pt x 501.875pt>
+File: Sardegna/Stemma Oliena.png Graphic file (type png)
+<use Sardegna/Stemma Oliena.png>
+Package pdftex.def Info: Sardegna/Stemma Oliena.png  used on input line 634.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Sardegna/Stemma Sardara.png, id=183, 380.42125pt x 501.875pt>
+File: Sardegna/Stemma Sardara.png Graphic file (type png)
+<use Sardegna/Stemma Sardara.png>
+Package pdftex.def Info: Sardegna/Stemma Sardara.png  used on input line 650.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Sardegna/Stemma Tempio Pausania.png, id=184, 401.5pt x 490.83376pt>
+File: Sardegna/Stemma Tempio Pausania.png Graphic file (type png)
+<use Sardegna/Stemma Tempio Pausania.png>
+Package pdftex.def Info: Sardegna/Stemma Tempio Pausania.png  used on input lin
+e 669.
+(pdftex.def)             Requested size: 113.80992pt x 142.26324pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23 <./Sardegna/Stemma Oliena.png> <./Sardegna/Stemma Sardara.png> <./Sardegna/
+Stemma Tempio Pausania.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+<Basilicata/Aliano-Stemma.png, id=197, 803.0pt x 1026.83624pt>
+File: Basilicata/Aliano-Stemma.png Graphic file (type png)
+<use Basilicata/Aliano-Stemma.png>
+Package pdftex.def Info: Basilicata/Aliano-Stemma.png  used on input line 691.
+(pdftex.def)             Requested size: 113.80379pt x 142.25194pt.
+<Basilicata/Castelmezzano-Stemma.png, id=198, 295.1025pt x 425.59pt>
+File: Basilicata/Castelmezzano-Stemma.png Graphic file (type png)
+<use Basilicata/Castelmezzano-Stemma.png>
+Package pdftex.def Info: Basilicata/Castelmezzano-Stemma.png  used on input lin
+e 707.
+(pdftex.def)             Requested size: 113.81068pt x 142.26343pt.
+<Basilicata/Castelsaraceno-Stemma.png, id=199, 394.47375pt x 501.875pt>
+File: Basilicata/Castelsaraceno-Stemma.png Graphic file (type png)
+<use Basilicata/Castelsaraceno-Stemma.png>
+Package pdftex.def Info: Basilicata/Castelsaraceno-Stemma.png  used on input li
+ne 725.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Basilicata/Guardia_Perticara-Stemma.png, id=200, 380.42125pt x 501.875pt>
+File: Basilicata/Guardia_Perticara-Stemma.png Graphic file (type png)
+<use Basilicata/Guardia_Perticara-Stemma.png>
+Package pdftex.def Info: Basilicata/Guardia_Perticara-Stemma.png  used on input
+ line 741.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25 <./Basilicata/Aliano-Stemma.png> <./Basilicata/Castelmezzano-Stemma.png> <.
+/Basilicata/Castelsaraceno-Stemma.png> <./Basilicata/Guardia_Perticara-Stemma.p
+ng>]
+<Basilicata/San_Severino_Lucano-Stemma.png, id=210, 314.17375pt x 501.875pt>
+File: Basilicata/San_Severino_Lucano-Stemma.png Graphic file (type png)
+<use Basilicata/San_Severino_Lucano-Stemma.png>
+Package pdftex.def Info: Basilicata/San_Severino_Lucano-Stemma.png  used on inp
+ut line 759.
+(pdftex.def)             Requested size: 113.80716pt x 142.26239pt.
+<Basilicata/Sasso_di_Castalda-Stemma.png, id=211, 394.47375pt x 501.875pt>
+File: Basilicata/Sasso_di_Castalda-Stemma.png Graphic file (type png)
+<use Basilicata/Sasso_di_Castalda-Stemma.png>
+Package pdftex.def Info: Basilicata/Sasso_di_Castalda-Stemma.png  used on input
+ line 775.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Basilicata/Valsinni-Stemma.png, id=212, 366.36874pt x 501.875pt>
+File: Basilicata/Valsinni-Stemma.png Graphic file (type png)
+<use Basilicata/Valsinni-Stemma.png>
+Package pdftex.def Info: Basilicata/Valsinni-Stemma.png  used on input line 794
+.
+(pdftex.def)             Requested size: 113.80792pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26 <./Basilicata/San_Severino_Lucano-Stemma.png> <./Basilicata/Sasso_di_Castal
+da-Stemma.png> <./Basilicata/Valsinni-Stemma.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+<Friuli Venezia Giulia/Barcis-Stemma.png, id=225, 342.27875pt x 501.875pt>
+File: Friuli Venezia Giulia/Barcis-Stemma.png Graphic file (type png)
+<use Friuli Venezia Giulia/Barcis-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Barcis-Stemma.png  used on input
+ line 816.
+(pdftex.def)             Requested size: 113.80885pt x 142.26239pt.
+<Friuli Venezia Giulia/Andreis-Stemma.png, id=226, 380.42125pt x 501.875pt>
+File: Friuli Venezia Giulia/Andreis-Stemma.png Graphic file (type png)
+<use Friuli Venezia Giulia/Andreis-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Andreis-Stemma.png  used on inpu
+t line 832.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Friuli Venezia Giulia/Cividale-del-Friuli-Stemma.png, id=227, 351.3125pt x 477
+.785pt>
+File: Friuli Venezia Giulia/Cividale-del-Friuli-Stemma.png Graphic file (type p
+ng)
+<use Friuli Venezia Giulia/Cividale-del-Friuli-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Cividale-del-Friuli-Stemma.png  
+used on input line 850.
+(pdftex.def)             Requested size: 113.81068pt x 142.25761pt.
+<Friuli Venezia Giulia/Frisanco-Stemma.png, id=228, 400.49625pt x 501.875pt>
+File: Friuli Venezia Giulia/Frisanco-Stemma.png Graphic file (type png)
+<use Friuli Venezia Giulia/Frisanco-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Frisanco-Stemma.png  used on inp
+ut line 866.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28 <./Friuli Venezia Giulia/Barcis-Stemma.png> <./Friuli Venezia Giulia/Andrei
+s-Stemma.png> <./Friuli Venezia Giulia/Cividale-del-Friuli-Stemma.png> <./Friul
+i Venezia Giulia/Frisanco-Stemma.png>]
+<Friuli Venezia Giulia/Maniago-Stemma.png, id=237, 401.5pt x 461.725pt>
+File: Friuli Venezia Giulia/Maniago-Stemma.png Graphic file (type png)
+<use Friuli Venezia Giulia/Maniago-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Maniago-Stemma.png  used on inpu
+t line 884.
+(pdftex.def)             Requested size: 113.80992pt x 142.25964pt.
+<Friuli Venezia Giulia/San_Vito_al_Tagliamento-Stemma.svg.png, id=238, 803.0pt 
+x 1029.8475pt>
+File: Friuli Venezia Giulia/San_Vito_al_Tagliamento-Stemma.svg.png Graphic file
+ (type png)
+<use Friuli Venezia Giulia/San_Vito_al_Tagliamento-Stemma.svg.png>
+Package pdftex.def Info: Friuli Venezia Giulia/San_Vito_al_Tagliamento-Stemma.s
+vg.png  used on input line 900.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Friuli Venezia Giulia/Sappada-Stemma.png, id=239, 437.635pt x 501.875pt>
+File: Friuli Venezia Giulia/Sappada-Stemma.png Graphic file (type png)
+<use Friuli Venezia Giulia/Sappada-Stemma.png>
+Package pdftex.def Info: Friuli Venezia Giulia/Sappada-Stemma.png  used on inpu
+t line 917.
+(pdftex.def)             Requested size: 113.80913pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29 <./Friuli Venezia Giulia/Maniago-Stemma.png> <./Friuli Venezia Giulia/San_V
+ito_al_Tagliamento-Stemma.svg.png> <./Friuli Venezia Giulia/Sappada-Stemma.png>
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+<Emilia Romagna/Stemma Bagno di Romagna.png, id=253, 336.25626pt x 501.875pt>
+File: Emilia Romagna/Stemma Bagno di Romagna.png Graphic file (type png)
+<use Emilia Romagna/Stemma Bagno di Romagna.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Bagno di Romagna.png  used on in
+put line 939.
+(pdftex.def)             Requested size: 113.81252pt x 142.26239pt.
+<Emilia Romagna/Stemma Bobbio.png, id=254, 803.0pt x 1022.82124pt>
+File: Emilia Romagna/Stemma Bobbio.png Graphic file (type png)
+<use Emilia Romagna/Stemma Bobbio.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Bobbio.png  used on input line 9
+55.
+(pdftex.def)             Requested size: 113.80379pt x 142.25757pt.
+<Emilia Romagna/Stemma Brisighella.png, id=255, 287.0725pt x 501.875pt>
+File: Emilia Romagna/Stemma Brisighella.png Graphic file (type png)
+<use Emilia Romagna/Stemma Brisighella.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Brisighella.png  used on input l
+ine 973.
+(pdftex.def)             Requested size: 113.81071pt x 142.26239pt.
+<Emilia Romagna/Stemma Busseto.png, id=256, 373.395pt x 501.875pt>
+File: Emilia Romagna/Stemma Busseto.png Graphic file (type png)
+<use Emilia Romagna/Stemma Busseto.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Busseto.png  used on input line 
+989.
+(pdftex.def)             Requested size: 113.80838pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31 <./Emilia Romagna/Stemma Bagno di Romagna.png> <./Emilia Romagna/Stemma Bob
+bio.png> <./Emilia Romagna/Stemma Brisighella.png> <./Emilia Romagna/Stemma Bus
+seto.png>]
+<Emilia Romagna/Stemma Castell Arquato.png, id=266, 380.42125pt x 501.875pt>
+File: Emilia Romagna/Stemma Castell Arquato.png Graphic file (type png)
+<use Emilia Romagna/Stemma Castell Arquato.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Castell Arquato.png  used on inp
+ut line 1007.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Emilia Romagna/Stemma Castelvetro di Modena.png, id=267, 587.19376pt x 752.812
+5pt>
+File: Emilia Romagna/Stemma Castelvetro di Modena.png Graphic file (type png)
+<use Emilia Romagna/Stemma Castelvetro di Modena.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Castelvetro di Modena.png  used 
+on input line 1023.
+(pdftex.def)             Requested size: 113.80792pt x 142.26622pt.
+<Emilia Romagna/Stemma Castrocaro Terme e Terra del Sole.png, id=268, 384.43625
+pt x 501.875pt>
+File: Emilia Romagna/Stemma Castrocaro Terme e Terra del Sole.png Graphic file 
+(type png)
+<use Emilia Romagna/Stemma Castrocaro Terme e Terra del Sole.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Castrocaro Terme e Terra del Sol
+e.png  used on input line 1041.
+(pdftex.def)             Requested size: 113.81245pt x 142.26239pt.
+<Emilia Romagna/Stemma Dozza.png, id=269, 379.4175pt x 501.875pt>
+File: Emilia Romagna/Stemma Dozza.png Graphic file (type png)
+<use Emilia Romagna/Stemma Dozza.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Dozza.png  used on input line 10
+57.
+(pdftex.def)             Requested size: 113.80875pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32 <./Emilia Romagna/Stemma Castell Arquato.png> <./Emilia Romagna/Stemma Cast
+elvetro di Modena.png> <./Emilia Romagna/Stemma Castrocaro Terme e Terra del So
+le.png> <./Emilia Romagna/Stemma Dozza.png>]
+<Emilia Romagna/Stemma Fanano.png, id=278, 383.4325pt x 501.875pt>
+File: Emilia Romagna/Stemma Fanano.png Graphic file (type png)
+<use Emilia Romagna/Stemma Fanano.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Fanano.png  used on input line 1
+075.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Emilia Romagna/Stemma Fiumalbo.png, id=279, 380.42125pt x 501.875pt>
+File: Emilia Romagna/Stemma Fiumalbo.png Graphic file (type png)
+<use Emilia Romagna/Stemma Fiumalbo.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Fiumalbo.png  used on input line
+ 1091.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Emilia Romagna/Stemma Fontanellato.png, id=280, 374.39874pt x 501.875pt>
+File: Emilia Romagna/Stemma Fontanellato.png Graphic file (type png)
+<use Emilia Romagna/Stemma Fontanellato.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Fontanellato.png  used on input 
+line 1109.
+(pdftex.def)             Requested size: 113.81154pt x 142.26239pt.
+<Emilia Romagna/Stemma Longiano.png, id=281, 507.8975pt x 494.84875pt>
+File: Emilia Romagna/Stemma Longiano.png Graphic file (type png)
+<use Emilia Romagna/Stemma Longiano.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Longiano.png  used on input line
+ 1125.
+(pdftex.def)             Requested size: 113.807pt x 142.26413pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33 <./Emilia Romagna/Stemma Fanano.png> <./Emilia Romagna/Stemma Fiumalbo.png>
+ <./Emilia Romagna/Stemma Fontanellato.png> <./Emilia Romagna/Stemma Longiano.p
+ng>]
+<Emilia Romagna/Stemma Montefiore Conca.png, id=290, 380.42125pt x 501.875pt>
+File: Emilia Romagna/Stemma Montefiore Conca.png Graphic file (type png)
+<use Emilia Romagna/Stemma Montefiore Conca.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Montefiore Conca.png  used on in
+put line 1143.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Emilia Romagna/Stemma Monteleone.png, id=291, 364.36125pt x 501.875pt>
+File: Emilia Romagna/Stemma Monteleone.png Graphic file (type png)
+<use Emilia Romagna/Stemma Monteleone.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Monteleone.png  used on input li
+ne 1159.
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+<Emilia Romagna/Stemma Pennabilli.png, id=292, 1602.98875pt x 2054.67625pt>
+File: Emilia Romagna/Stemma Pennabilli.png Graphic file (type png)
+<use Emilia Romagna/Stemma Pennabilli.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Pennabilli.png  used on input li
+ne 1177.
+(pdftex.def)             Requested size: 113.81055pt x 142.24309pt.
+<Emilia Romagna/Stemma Pieve di Cento.png, id=293, 773.89125pt x 903.375pt>
+File: Emilia Romagna/Stemma Pieve di Cento.png Graphic file (type png)
+<use Emilia Romagna/Stemma Pieve di Cento.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Pieve di Cento.png  used on inpu
+t line 1193.
+(pdftex.def)             Requested size: 113.81142pt x 142.25475pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34 <./Emilia Romagna/Stemma Montefiore Conca.png> <./Emilia Romagna/Stemma Mon
+teleone.png> <./Emilia Romagna/Stemma Pennabilli.png> <./Emilia Romagna/Stemma 
+Pieve di Cento.png>]
+<Emilia Romagna/Stemma Portico e San Benedetto.png, id=302, 383.4325pt x 501.87
+5pt>
+File: Emilia Romagna/Stemma Portico e San Benedetto.png Graphic file (type png)
+
+<use Emilia Romagna/Stemma Portico e San Benedetto.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Portico e San Benedetto.png  use
+d on input line 1211.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Emilia Romagna/Stemma Premilcuore.png, id=303, 400.49625pt x 501.875pt>
+File: Emilia Romagna/Stemma Premilcuore.png Graphic file (type png)
+<use Emilia Romagna/Stemma Premilcuore.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Premilcuore.png  used on input l
+ine 1227.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Emilia Romagna/Stemma San Leo.png, id=304, 321.2pt x 501.875pt>
+File: Emilia Romagna/Stemma San Leo.png Graphic file (type png)
+<use Emilia Romagna/Stemma San Leo.png>
+Package pdftex.def Info: Emilia Romagna/Stemma San Leo.png  used on input line 
+1245.
+(pdftex.def)             Requested size: 113.8087pt x 142.26239pt.
+<Emilia Romagna/Stemma Sant Agata Feltria.png, id=305, 199.74625pt x 253.94875p
+t>
+File: Emilia Romagna/Stemma Sant Agata Feltria.png Graphic file (type png)
+<use Emilia Romagna/Stemma Sant Agata Feltria.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Sant Agata Feltria.png  used on 
+input line 1261.
+(pdftex.def)             Requested size: 113.81082pt x 142.26845pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35 <./Emilia Romagna/Stemma Portico e San Benedetto.png> <./Emilia Romagna/Ste
+mma Premilcuore.png> <./Emilia Romagna/Stemma San Leo.png> <./Emilia Romagna/St
+emma Sant Agata Feltria.png>]
+<Emilia Romagna/Stemma Sarsina.png, id=314, 349.305pt x 501.875pt>
+File: Emilia Romagna/Stemma Sarsina.png Graphic file (type png)
+<use Emilia Romagna/Stemma Sarsina.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Sarsina.png  used on input line 
+1279.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Emilia Romagna/Stemma Sestola.png, id=315, 394.47375pt x 501.875pt>
+File: Emilia Romagna/Stemma Sestola.png Graphic file (type png)
+<use Emilia Romagna/Stemma Sestola.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Sestola.png  used on input line 
+1295.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Emilia Romagna/Stemma Verucchio.png, id=316, 803.0pt x 1029.8475pt>
+File: Emilia Romagna/Stemma Verucchio.png Graphic file (type png)
+<use Emilia Romagna/Stemma Verucchio.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Verucchio.png  used on input lin
+e 1313.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Emilia Romagna/Stemma Vigoleno.png, id=317, 301.125pt x 301.125pt>
+File: Emilia Romagna/Stemma Vigoleno.png Graphic file (type png)
+<use Emilia Romagna/Stemma Vigoleno.png>
+Package pdftex.def Info: Emilia Romagna/Stemma Vigoleno.png  used on input line
+ 1329.
+(pdftex.def)             Requested size: 113.81297pt x 142.26852pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36 <./Emilia Romagna/Stemma Sarsina.png> <./Emilia Romagna/Stemma Sestola.png>
+ <./Emilia Romagna/Stemma Verucchio.png> <./Emilia Romagna/Stemma Vigoleno.png>
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+<Lazio/Stemma Arpino.png, id=332, 459.7175pt x 501.875pt>
+File: Lazio/Stemma Arpino.png Graphic file (type png)
+<use Lazio/Stemma Arpino.png>
+Package pdftex.def Info: Lazio/Stemma Arpino.png  used on input line 1352.
+(pdftex.def)             Requested size: 113.80673pt x 142.26239pt.
+<Lazio/Stemma Atina.png, id=333, 390.45876pt x 501.875pt>
+File: Lazio/Stemma Atina.png Graphic file (type png)
+<use Lazio/Stemma Atina.png>
+Package pdftex.def Info: Lazio/Stemma Atina.png  used on input line 1368.
+(pdftex.def)             Requested size: 113.80804pt x 142.26239pt.
+<Lazio/Stemma Bassiano.png, id=334, 346.29375pt x 501.875pt>
+File: Lazio/Stemma Bassiano.png Graphic file (type png)
+<use Lazio/Stemma Bassiano.png>
+Package pdftex.def Info: Lazio/Stemma Bassiano.png  used on input line 1386.
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+<Lazio/Stemma Bolsena.png, id=335, 203.76125pt x 248.93pt>
+File: Lazio/Stemma Bolsena.png Graphic file (type png)
+<use Lazio/Stemma Bolsena.png>
+Package pdftex.def Info: Lazio/Stemma Bolsena.png  used on input line 1402.
+(pdftex.def)             Requested size: 113.81013pt x 142.26761pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38 <./Lazio/Stemma Arpino.png> <./Lazio/Stemma Atina.png> <./Lazio/Stemma Bass
+iano.png> <./Lazio/Stemma Bolsena.png>]
+<Lazio/Stemma Bomarzo.png, id=344, 408.52625pt x 501.875pt>
+File: Lazio/Stemma Bomarzo.png Graphic file (type png)
+<use Lazio/Stemma Bomarzo.png>
+Package pdftex.def Info: Lazio/Stemma Bomarzo.png  used on input line 1420.
+(pdftex.def)             Requested size: 113.80684pt x 142.26239pt.
+<Lazio/Stemma Calcata.png, id=345, 383.4325pt x 501.875pt>
+File: Lazio/Stemma Calcata.png Graphic file (type png)
+<use Lazio/Stemma Calcata.png>
+Package pdftex.def Info: Lazio/Stemma Calcata.png  used on input line 1436.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Lazio/Stemma Campodimele.png, id=346, 435.6275pt x 577.15625pt>
+File: Lazio/Stemma Campodimele.png Graphic file (type png)
+<use Lazio/Stemma Campodimele.png>
+Package pdftex.def Info: Lazio/Stemma Campodimele.png  used on input line 1454.
+
+(pdftex.def)             Requested size: 113.80554pt x 142.26317pt.
+<Lazio/Stemma Casperia.png, id=347, 158.5925pt x 197.73875pt>
+File: Lazio/Stemma Casperia.png Graphic file (type png)
+<use Lazio/Stemma Casperia.png>
+Package pdftex.def Info: Lazio/Stemma Casperia.png  used on input line 1470.
+(pdftex.def)             Requested size: 113.81383pt x 142.26617pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39 <./Lazio/Stemma Bomarzo.png> <./Lazio/Stemma Calcata.png> <./Lazio/Stemma C
+ampodimele.png> <./Lazio/Stemma Casperia.png>]
+<Lazio/Stemma Castro dei Volsci.png, id=356, 200.75pt x 319.1925pt>
+File: Lazio/Stemma Castro dei Volsci.png Graphic file (type png)
+<use Lazio/Stemma Castro dei Volsci.png>
+Package pdftex.def Info: Lazio/Stemma Castro dei Volsci.png  used on input line
+ 1488.
+(pdftex.def)             Requested size: 113.81297pt x 142.26181pt.
+<Lazio/Stemma Collepardo.png, id=357, 232.87pt x 301.125pt>
+File: Lazio/Stemma Collepardo.png Graphic file (type png)
+<use Lazio/Stemma Collepardo.png>
+Package pdftex.def Info: Lazio/Stemma Collepardo.png  used on input line 1504.
+(pdftex.def)             Requested size: 113.8088pt x 142.26852pt.
+<Lazio/Stemma Fossanova.png, id=358, 501.875pt x 501.875pt>
+File: Lazio/Stemma Fossanova.png Graphic file (type png)
+<use Lazio/Stemma Fossanova.png>
+Package pdftex.def Info: Lazio/Stemma Fossanova.png  used on input line 1522.
+(pdftex.def)             Requested size: 113.80533pt x 142.26239pt.
+<Lazio/Stemma Labro.png, id=359, 380.42125pt x 501.875pt>
+File: Lazio/Stemma Labro.png Graphic file (type png)
+<use Lazio/Stemma Labro.png>
+Package pdftex.def Info: Lazio/Stemma Labro.png  used on input line 1538.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40 <./Lazio/Stemma Castro dei Volsci.png> <./Lazio/Stemma Collepardo.png> <./L
+azio/Stemma Fossanova.png> <./Lazio/Stemma Labro.png>]
+<Lazio/Stemma Leonessa.png, id=368, 380.42125pt x 501.875pt>
+File: Lazio/Stemma Leonessa.png Graphic file (type png)
+<use Lazio/Stemma Leonessa.png>
+Package pdftex.def Info: Lazio/Stemma Leonessa.png  used on input line 1556.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Lazio/Stemma Nemi.png, id=369, 363.3575pt x 501.875pt>
+File: Lazio/Stemma Nemi.png Graphic file (type png)
+<use Lazio/Stemma Nemi.png>
+Package pdftex.def Info: Lazio/Stemma Nemi.png  used on input line 1572.
+(pdftex.def)             Requested size: 113.80951pt x 142.26239pt.
+<Lazio/Stemma Picisco.png, id=370, 141.52875pt x 168.63pt>
+File: Lazio/Stemma Picisco.png Graphic file (type png)
+<use Lazio/Stemma Picisco.png>
+Package pdftex.def Info: Lazio/Stemma Picisco.png  used on input line 1590.
+(pdftex.def)             Requested size: 113.81487pt x 142.26576pt.
+<Lazio/Stemma Prossedi.png, id=371, 406.51875pt x 618.31pt>
+File: Lazio/Stemma Prossedi.png Graphic file (type png)
+<use Lazio/Stemma Prossedi.png>
+Package pdftex.def Info: Lazio/Stemma Prossedi.png  used on input line 1606.
+(pdftex.def)             Requested size: 113.80586pt x 142.26491pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41 <./Lazio/Stemma Leonessa.png> <./Lazio/Stemma Nemi.png> <./Lazio/Stemma Pic
+isco.png> <./Lazio/Stemma Prossedi.png>]
+<Lazio/Stemma San Donato Val di Comino.png, id=380, 339.2675pt x 501.875pt>
+File: Lazio/Stemma San Donato Val di Comino.png Graphic file (type png)
+<use Lazio/Stemma San Donato Val di Comino.png>
+Package pdftex.def Info: Lazio/Stemma San Donato Val di Comino.png  used on inp
+ut line 1624.
+(pdftex.def)             Requested size: 113.80673pt x 142.26239pt.
+<Lazio/Stemma Sermoneta.png, id=381, 1204.5pt x 1543.7675pt>
+File: Lazio/Stemma Sermoneta.png Graphic file (type png)
+<use Lazio/Stemma Sermoneta.png>
+Package pdftex.def Info: Lazio/Stemma Sermoneta.png  used on input line 1640.
+(pdftex.def)             Requested size: 113.80379pt x 142.25447pt.
+<Lazio/Stemma Subiaco.png, id=382, 341.275pt x 501.875pt>
+File: Lazio/Stemma Subiaco.png Graphic file (type png)
+<use Lazio/Stemma Subiaco.png>
+Package pdftex.def Info: Lazio/Stemma Subiaco.png  used on input line 1658.
+(pdftex.def)             Requested size: 113.80838pt x 142.26239pt.
+<Lazio/Stemma Sutri.png, id=383, 253.94875pt x 358.33875pt>
+File: Lazio/Stemma Sutri.png Graphic file (type png)
+<use Lazio/Stemma Sutri.png>
+Package pdftex.def Info: Lazio/Stemma Sutri.png  used on input line 1674.
+(pdftex.def)             Requested size: 113.81088pt x 142.26674pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42 <./Lazio/Stemma San Donato Val di Comino.png> <./Lazio/Stemma Sermoneta.png
+> <./Lazio/Stemma Subiaco.png> <./Lazio/Stemma Sutri.png>]
+<Lazio/Stemma Trevi nel Lazio.png, id=392, 408.52625pt x 501.875pt>
+File: Lazio/Stemma Trevi nel Lazio.png Graphic file (type png)
+<use Lazio/Stemma Trevi nel Lazio.png>
+Package pdftex.def Info: Lazio/Stemma Trevi nel Lazio.png  used on input line 1
+692.
+(pdftex.def)             Requested size: 113.80684pt x 142.26239pt.
+<Lazio/Stemma Trevignano Romano.png, id=393, 321.2pt x 501.875pt>
+File: Lazio/Stemma Trevignano Romano.png Graphic file (type png)
+<use Lazio/Stemma Trevignano Romano.png>
+Package pdftex.def Info: Lazio/Stemma Trevignano Romano.png  used on input line
+ 1708.
+(pdftex.def)             Requested size: 113.8087pt x 142.26239pt.
+<Lazio/Stemma Tuscania.png, id=394, 434.62375pt x 751.80875pt>
+File: Lazio/Stemma Tuscania.png Graphic file (type png)
+<use Lazio/Stemma Tuscania.png>
+Package pdftex.def Info: Lazio/Stemma Tuscania.png  used on input line 1726.
+(pdftex.def)             Requested size: 113.80858pt x 142.26009pt.
+<Lazio/Stemma Vitorchiano.png, id=395, 380.42125pt x 501.875pt>
+File: Lazio/Stemma Vitorchiano.png Graphic file (type png)
+<use Lazio/Stemma Vitorchiano.png>
+Package pdftex.def Info: Lazio/Stemma Vitorchiano.png  used on input line 1742.
+
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43 <./Lazio/Stemma Trevi nel Lazio.png> <./Lazio/Stemma Trevignano Romano.png>
+ <./Lazio/Stemma Tuscania.png> <./Lazio/Stemma Vitorchiano.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+<Toscana/Stemma Abetone Cutigliano.png, id=410, 401.5pt x 501.875pt>
+File: Toscana/Stemma Abetone Cutigliano.png Graphic file (type png)
+<use Toscana/Stemma Abetone Cutigliano.png>
+Package pdftex.def Info: Toscana/Stemma Abetone Cutigliano.png  used on input l
+ine 1765.
+(pdftex.def)             Requested size: 113.80992pt x 142.26239pt.
+<Toscana/Stemma Anghiari.png, id=411, 433.62pt x 579.16376pt>
+File: Toscana/Stemma Anghiari.png Graphic file (type png)
+<use Toscana/Stemma Anghiari.png>
+Package pdftex.def Info: Toscana/Stemma Anghiari.png  used on input line 1781.
+(pdftex.def)             Requested size: 113.81041pt x 142.2631pt.
+<Toscana/Stemma Bagnone.png, id=412, 400.49625pt x 501.875pt>
+File: Toscana/Stemma Bagnone.png Graphic file (type png)
+<use Toscana/Stemma Bagnone.png>
+Package pdftex.def Info: Toscana/Stemma Bagnone.png  used on input line 1799.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Toscana/Stemma Barberino Tavernelle.png, id=413, 205.76875pt x 246.9225pt>
+File: Toscana/Stemma Barberino Tavernelle.png Graphic file (type png)
+<use Toscana/Stemma Barberino Tavernelle.png>
+Package pdftex.def Info: Toscana/Stemma Barberino Tavernelle.png  used on input
+ line 1815.
+(pdftex.def)             Requested size: 113.81052pt x 142.2619pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45 <./Toscana/Stemma Abetone Cutigliano.png> <./Toscana/Stemma Anghiari.png> <
+./Toscana/Stemma Bagnone.png> <./Toscana/Stemma Barberino Tavernelle.png>]
+<Toscana/Stemma Barga.png, id=422, 419.5675pt x 501.875pt>
+File: Toscana/Stemma Barga.png Graphic file (type png)
+<use Toscana/Stemma Barga.png>
+Package pdftex.def Info: Toscana/Stemma Barga.png  used on input line 1833.
+(pdftex.def)             Requested size: 113.80971pt x 142.26239pt.
+<Toscana/Stemma Casale Marittimo.png, id=423, 392.46625pt x 501.875pt>
+File: Toscana/Stemma Casale Marittimo.png Graphic file (type png)
+<use Toscana/Stemma Casale Marittimo.png>
+Package pdftex.def Info: Toscana/Stemma Casale Marittimo.png  used on input lin
+e 1849.
+(pdftex.def)             Requested size: 113.8063pt x 142.26239pt.
+<Toscana/Stemma Casciana Terme Lari.png, id=424, 365.365pt x 501.875pt>
+File: Toscana/Stemma Casciana Terme Lari.png Graphic file (type png)
+<use Toscana/Stemma Casciana Terme Lari.png>
+Package pdftex.def Info: Toscana/Stemma Casciana Terme Lari.png  used on input 
+line 1867.
+(pdftex.def)             Requested size: 113.80832pt x 142.26239pt.
+<Toscana/Stemma Casole d'Elsa.png, id=425, 287.57437pt x 376.40625pt>
+File: Toscana/Stemma Casole d'Elsa.png Graphic file (type png)
+<use Toscana/Stemma Casole d'Elsa.png>
+Package pdftex.def Info: Toscana/Stemma Casole d'Elsa.png  used on input line 1
+883.
+(pdftex.def)             Requested size: 113.81223pt x 142.26622pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46 <./Toscana/Stemma Barga.png> <./Toscana/Stemma Casale Marittimo.png> <./Tos
+cana/Stemma Casciana Terme Lari.png> <./Toscana/Stemma Casole d'Elsa.png>]
+<Toscana/Stemma Castelnuovo Berardenga.png, id=434, 400.49625pt x 501.875pt>
+File: Toscana/Stemma Castelnuovo Berardenga.png Graphic file (type png)
+<use Toscana/Stemma Castelnuovo Berardenga.png>
+Package pdftex.def Info: Toscana/Stemma Castelnuovo Berardenga.png  used on inp
+ut line 1901.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Toscana/Stemma Castelnuovo di Val di Cecina.png, id=435, 380.42125pt x 501.875
+pt>
+File: Toscana/Stemma Castelnuovo di Val di Cecina.png Graphic file (type png)
+<use Toscana/Stemma Castelnuovo di Val di Cecina.png>
+Package pdftex.def Info: Toscana/Stemma Castelnuovo di Val di Cecina.png  used 
+on input line 1917.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Toscana/Stemma Castiglion Fiorentino.png, id=436, 358.33875pt x 501.875pt>
+File: Toscana/Stemma Castiglion Fiorentino.png Graphic file (type png)
+<use Toscana/Stemma Castiglion Fiorentino.png>
+Package pdftex.def Info: Toscana/Stemma Castiglion Fiorentino.png  used on inpu
+t line 1935.
+(pdftex.def)             Requested size: 113.80682pt x 142.26239pt.
+<Toscana/Stemma Certaldo.png, id=437, 803.0pt x 962.59625pt>
+File: Toscana/Stemma Certaldo.png Graphic file (type png)
+<use Toscana/Stemma Certaldo.png>
+Package pdftex.def Info: Toscana/Stemma Certaldo.png  used on input line 1951.
+(pdftex.def)             Requested size: 113.80379pt x 142.25343pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47 <./Toscana/Stemma Castelnuovo Berardenga.png> <./Toscana/Stemma Castelnuovo
+ di Val di Cecina.png> <./Toscana/Stemma Castiglion Fiorentino.png> <./Toscana/
+Stemma Certaldo.png>]
+<Toscana/Stemma Cetona.png, id=446, 392.46625pt x 501.875pt>
+File: Toscana/Stemma Cetona.png Graphic file (type png)
+<use Toscana/Stemma Cetona.png>
+Package pdftex.def Info: Toscana/Stemma Cetona.png  used on input line 1969.
+(pdftex.def)             Requested size: 113.8063pt x 142.26239pt.
+<Toscana/Stemma Chiusi.png, id=447, 1614.03pt x 2055.68pt>
+File: Toscana/Stemma Chiusi.png Graphic file (type png)
+<use Toscana/Stemma Chiusi.png>
+Package pdftex.def Info: Toscana/Stemma Chiusi.png  used on input line 1985.
+(pdftex.def)             Requested size: 113.80637pt x 142.24985pt.
+<Toscana/Stemma Collodi.png, id=448, 587.19376pt x 752.8125pt>
+File: Toscana/Stemma Collodi.png Graphic file (type png)
+<use Toscana/Stemma Collodi.png>
+Package pdftex.def Info: Toscana/Stemma Collodi.png  used on input line 2003.
+(pdftex.def)             Requested size: 113.80792pt x 142.26622pt.
+<Toscana/Stemma Fosdinovo.png, id=449, 1204.5pt x 1543.7675pt>
+File: Toscana/Stemma Fosdinovo.png Graphic file (type png)
+<use Toscana/Stemma Fosdinovo.png>
+Package pdftex.def Info: Toscana/Stemma Fosdinovo.png  used on input line 2019.
+
+(pdftex.def)             Requested size: 113.80379pt x 142.25447pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48 <./Toscana/Stemma Cetona.png> <./Toscana/Stemma Chiusi.png> <./Toscana/Stem
+ma Collodi.png> <./Toscana/Stemma Fosdinovo.png>]
+<Toscana/Stemma Lucignano.png, id=458, 393.47pt x 501.875pt>
+File: Toscana/Stemma Lucignano.png Graphic file (type png)
+<use Toscana/Stemma Lucignano.png>
+Package pdftex.def Info: Toscana/Stemma Lucignano.png  used on input line 2037.
+
+(pdftex.def)             Requested size: 113.80917pt x 142.26239pt.
+<Toscana/Stemma Manciano.png, id=459, 380.42125pt x 501.875pt>
+File: Toscana/Stemma Manciano.png Graphic file (type png)
+<use Toscana/Stemma Manciano.png>
+Package pdftex.def Info: Toscana/Stemma Manciano.png  used on input line 2053.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Toscana/Stemma Massa Marittima.png, id=460, 376.40625pt x 501.875pt>
+File: Toscana/Stemma Massa Marittima.png Graphic file (type png)
+<use Toscana/Stemma Massa Marittima.png>
+Package pdftex.def Info: Toscana/Stemma Massa Marittima.png  used on input line
+ 2071.
+(pdftex.def)             Requested size: 113.81297pt x 142.26239pt.
+<Toscana/Stemma Montalcino.png, id=461, 431.6125pt x 582.175pt>
+File: Toscana/Stemma Montalcino.png Graphic file (type png)
+<use Toscana/Stemma Montalcino.png>
+Package pdftex.def Info: Toscana/Stemma Montalcino.png  used on input line 2087
+.
+(pdftex.def)             Requested size: 113.81038pt x 142.25658pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49 <./Toscana/Stemma Lucignano.png> <./Toscana/Stemma Manciano.png> <./Toscana
+/Stemma Massa Marittima.png> <./Toscana/Stemma Montalcino.png>]
+<Toscana/Stemma Montecarlo.png, id=471, 587.19376pt x 753.81625pt>
+File: Toscana/Stemma Montecarlo.png Graphic file (type png)
+<use Toscana/Stemma Montecarlo.png>
+Package pdftex.def Info: Toscana/Stemma Montecarlo.png  used on input line 2105
+.
+(pdftex.def)             Requested size: 113.80792pt x 142.26038pt.
+<Toscana/Stemma Montefollonico.png, id=472, 1204.5pt x 1683.28876pt>
+File: Toscana/Stemma Montefollonico.png Graphic file (type png)
+<use Toscana/Stemma Montefollonico.png>
+Package pdftex.def Info: Toscana/Stemma Montefollonico.png  used on input line 
+2121.
+(pdftex.def)             Requested size: 113.80379pt x 142.24289pt.
+<Toscana/Stemma Montepulciano.png, id=473, 451.6875pt x 557.08125pt>
+File: Toscana/Stemma Montepulciano.png Graphic file (type png)
+<use Toscana/Stemma Montepulciano.png>
+Package pdftex.def Info: Toscana/Stemma Montepulciano.png  used on input line 2
+139.
+(pdftex.def)             Requested size: 113.81068pt x 142.2621pt.
+<Toscana/Stemma Monteriggioni.png, id=474, 232.61906pt x 301.125pt>
+File: Toscana/Stemma Monteriggioni.png Graphic file (type png)
+<use Toscana/Stemma Monteriggioni.png>
+Package pdftex.def Info: Toscana/Stemma Monteriggioni.png  used on input line 2
+155.
+(pdftex.def)             Requested size: 113.81041pt x 142.26852pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50 <./Toscana/Stemma Montecarlo.png> <./Toscana/Stemma Montefollonico.png> <./
+Toscana/Stemma Montepulciano.png> <./Toscana/Stemma Monteriggioni.png>]
+<Toscana/Stemma Monteverdi Marittimo.png, id=483, 394.47375pt x 501.875pt>
+File: Toscana/Stemma Monteverdi Marittimo.png Graphic file (type png)
+<use Toscana/Stemma Monteverdi Marittimo.png>
+Package pdftex.def Info: Toscana/Stemma Monteverdi Marittimo.png  used on input
+ line 2174.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Toscana/Stemma Murlo.png, id=484, 400.49625pt x 501.875pt>
+File: Toscana/Stemma Murlo.png Graphic file (type png)
+<use Toscana/Stemma Murlo.png>
+Package pdftex.def Info: Toscana/Stemma Murlo.png  used on input line 2190.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Toscana/Stemma Peccioli.png, id=485, 400.49625pt x 501.875pt>
+File: Toscana/Stemma Peccioli.png Graphic file (type png)
+<use Toscana/Stemma Peccioli.png>
+Package pdftex.def Info: Toscana/Stemma Peccioli.png  used on input line 2208.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Toscana/Stemma Pienza.png, id=486, 1204.5pt x 1543.7675pt>
+File: Toscana/Stemma Pienza.png Graphic file (type png)
+<use Toscana/Stemma Pienza.png>
+Package pdftex.def Info: Toscana/Stemma Pienza.png  used on input line 2224.
+(pdftex.def)             Requested size: 113.80379pt x 142.25447pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51 <./Toscana/Stemma Monteverdi Marittimo.png> <./Toscana/Stemma Murlo.png> <.
+/Toscana/Stemma Peccioli.png> <./Toscana/Stemma Pienza.png>]
+<Toscana/Stemma Pitigliano.png, id=495, 383.4325pt x 501.875pt>
+File: Toscana/Stemma Pitigliano.png Graphic file (type png)
+<use Toscana/Stemma Pitigliano.png>
+Package pdftex.def Info: Toscana/Stemma Pitigliano.png  used on input line 2242
+.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Toscana/Stemma Pomarance.png, id=496, 380.42125pt x 501.875pt>
+File: Toscana/Stemma Pomarance.png Graphic file (type png)
+<use Toscana/Stemma Pomarance.png>
+Package pdftex.def Info: Toscana/Stemma Pomarance.png  used on input line 2258.
+
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Toscana/Stemma Radda in Chianti.png, id=497, 394.47375pt x 501.875pt>
+File: Toscana/Stemma Radda in Chianti.png Graphic file (type png)
+<use Toscana/Stemma Radda in Chianti.png>
+Package pdftex.def Info: Toscana/Stemma Radda in Chianti.png  used on input lin
+e 2276.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Toscana/Stemma Radicofani.png, id=498, 383.4325pt x 501.875pt>
+File: Toscana/Stemma Radicofani.png Graphic file (type png)
+<use Toscana/Stemma Radicofani.png>
+Package pdftex.def Info: Toscana/Stemma Radicofani.png  used on input line 2292
+.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52 <./Toscana/Stemma Pitigliano.png> <./Toscana/Stemma Pomarance.png> <./Tosca
+na/Stemma Radda in Chianti.png> <./Toscana/Stemma Radicofani.png>]
+<Toscana/Stemma San Casciano dei Bagni.png, id=507, 401.5pt x 501.875pt>
+File: Toscana/Stemma San Casciano dei Bagni.png Graphic file (type png)
+<use Toscana/Stemma San Casciano dei Bagni.png>
+Package pdftex.def Info: Toscana/Stemma San Casciano dei Bagni.png  used on inp
+ut line 2310.
+(pdftex.def)             Requested size: 113.80992pt x 142.26239pt.
+<Toscana/Stemma San Gimignano.png, id=508, 587.19376pt x 752.8125pt>
+File: Toscana/Stemma San Gimignano.png Graphic file (type png)
+<use Toscana/Stemma San Gimignano.png>
+Package pdftex.def Info: Toscana/Stemma San Gimignano.png  used on input line 2
+326.
+(pdftex.def)             Requested size: 113.80792pt x 142.26622pt.
+<Toscana/Stemma Santa Fiora.png, id=509, 803.0pt x 1025.8325pt>
+File: Toscana/Stemma Santa Fiora.png Graphic file (type png)
+<use Toscana/Stemma Santa Fiora.png>
+Package pdftex.def Info: Toscana/Stemma Santa Fiora.png  used on input line 234
+4.
+(pdftex.def)             Requested size: 113.80379pt x 142.25377pt.
+<Toscana/Stemma Sarteano.png, id=510, 382.42876pt x 501.875pt>
+File: Toscana/Stemma Sarteano.png Graphic file (type png)
+<use Toscana/Stemma Sarteano.png>
+Package pdftex.def Info: Toscana/Stemma Sarteano.png  used on input line 2360.
+(pdftex.def)             Requested size: 113.80751pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53 <./Toscana/Stemma San Casciano dei Bagni.png> <./Toscana/Stemma San Gimigna
+no.png> <./Toscana/Stemma Santa Fiora.png> <./Toscana/Stemma Sarteano.png>]
+<Toscana/Stemma Sinalunga.png, id=519, 1204.5pt x 1443.3925pt>
+File: Toscana/Stemma Sinalunga.png Graphic file (type png)
+<use Toscana/Stemma Sinalunga.png>
+Package pdftex.def Info: Toscana/Stemma Sinalunga.png  used on input line 2378.
+
+(pdftex.def)             Requested size: 113.80379pt x 142.25539pt.
+<Toscana/Stemma Suvereto.png, id=520, 366.36874pt x 501.875pt>
+File: Toscana/Stemma Suvereto.png Graphic file (type png)
+<use Toscana/Stemma Suvereto.png>
+Package pdftex.def Info: Toscana/Stemma Suvereto.png  used on input line 2394.
+(pdftex.def)             Requested size: 113.80792pt x 142.26239pt.
+File: Emilia Romagna/Stemma San Leo.png Graphic file (type png)
+<use Emilia Romagna/Stemma San Leo.png>
+Package pdftex.def Info: Emilia Romagna/Stemma San Leo.png  used on input line 
+2412.
+(pdftex.def)             Requested size: 113.8087pt x 142.26239pt.
+<Toscana/Stemma Trequanda.png, id=521, 512.91624pt x 489.83pt>
+File: Toscana/Stemma Trequanda.png Graphic file (type png)
+<use Toscana/Stemma Trequanda.png>
+Package pdftex.def Info: Toscana/Stemma Trequanda.png  used on input line 2428.
+
+(pdftex.def)             Requested size: 113.80457pt x 142.26381pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54 <./Toscana/Stemma Sinalunga.png> <./Toscana/Stemma Suvereto.png> <./Toscana
+/Stemma Trequanda.png>]
+<Toscana/Stemma Vicopisano.png, id=529, 382.42876pt x 501.875pt>
+File: Toscana/Stemma Vicopisano.png Graphic file (type png)
+<use Toscana/Stemma Vicopisano.png>
+Package pdftex.def Info: Toscana/Stemma Vicopisano.png  used on input line 2446
+.
+(pdftex.def)             Requested size: 113.80751pt x 142.26239pt.
+<Toscana/Stemma Vinci.png, id=530, 546.04pt x 460.72125pt>
+File: Toscana/Stemma Vinci.png Graphic file (type png)
+<use Toscana/Stemma Vinci.png>
+Package pdftex.def Info: Toscana/Stemma Vinci.png  used on input line 2462.
+(pdftex.def)             Requested size: 113.80527pt x 142.2597pt.
+<Toscana/Stemma Volterra.png, id=531, 604.2575pt x 771.88374pt>
+File: Toscana/Stemma Volterra.png Graphic file (type png)
+<use Toscana/Stemma Volterra.png>
+Package pdftex.def Info: Toscana/Stemma Volterra.png  used on input line 2480.
+(pdftex.def)             Requested size: 113.80511pt x 142.25446pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55 <./Toscana/Stemma Vicopisano.png> <./Toscana/Stemma Vinci.png> <./Toscana/S
+temma Volterra.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56]
+<Piemonte/Stemma Agliè.png, id=545, 408.52625pt x 501.875pt>
+File: Piemonte/Stemma Agliè.png Graphic file (type png)
+<use Piemonte/Stemma Agliè.png>
+Package pdftex.def Info: Piemonte/Stemma Agliè.png  used on input line 2502.
+(pdftex.def)             Requested size: 113.80684pt x 142.26239pt.
+<Piemonte/Stemma Alagna Valsesia.png, id=546, 803.0pt x 1029.8475pt>
+File: Piemonte/Stemma Alagna Valsesia.png Graphic file (type png)
+<use Piemonte/Stemma Alagna Valsesia.png>
+Package pdftex.def Info: Piemonte/Stemma Alagna Valsesia.png  used on input lin
+e 2518.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Piemonte/Stemma Arona.png, id=547, 1204.5pt x 1543.7675pt>
+File: Piemonte/Stemma Arona.png Graphic file (type png)
+<use Piemonte/Stemma Arona.png>
+Package pdftex.def Info: Piemonte/Stemma Arona.png  used on input line 2536.
+(pdftex.def)             Requested size: 113.80379pt x 142.25447pt.
+<Piemonte/Stemma Avigliana.png, id=548, 1204.5pt x 1443.3925pt>
+File: Piemonte/Stemma Avigliana.png Graphic file (type png)
+<use Piemonte/Stemma Avigliana.png>
+Package pdftex.def Info: Piemonte/Stemma Avigliana.png  used on input line 2552
+.
+(pdftex.def)             Requested size: 113.80379pt x 142.25539pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57 <./Piemonte/Stemma Agliè.png> <./Piemonte/Stemma Alagna Valsesia.png> <./P
+iemonte/Stemma Arona.png> <./Piemonte/Stemma Avigliana.png>]
+<Piemonte/Stemma Barolo.png, id=557, 410.53375pt x 481.8pt>
+File: Piemonte/Stemma Barolo.png Graphic file (type png)
+<use Piemonte/Stemma Barolo.png>
+Package pdftex.def Info: Piemonte/Stemma Barolo.png  used on input line 2570.
+(pdftex.def)             Requested size: 113.80856pt x 142.26208pt.
+<Piemonte/Stemma Bene Vagienna.png, id=558, 447.6725pt x 703.62875pt>
+File: Piemonte/Stemma Bene Vagienna.png Graphic file (type png)
+<use Piemonte/Stemma Bene Vagienna.png>
+Package pdftex.def Info: Piemonte/Stemma Bene Vagienna.png  used on input line 
+2586.
+(pdftex.def)             Requested size: 113.81001pt x 142.25858pt.
+<Piemonte/Stemma Bergolo.png, id=559, 1715.40875pt x 2055.68pt>
+File: Piemonte/Stemma Bergolo.png Graphic file (type png)
+<use Piemonte/Stemma Bergolo.png>
+Package pdftex.def Info: Piemonte/Stemma Bergolo.png  used on input line 2604.
+(pdftex.def)             Requested size: 113.80888pt x 142.24985pt.
+<Piemonte/Stemma Candelo.png, id=560, 801.99625pt x 1027.84pt>
+File: Piemonte/Stemma Candelo.png Graphic file (type png)
+<use Piemonte/Stemma Candelo.png>
+Package pdftex.def Info: Piemonte/Stemma Candelo.png  used on input line 2620.
+(pdftex.def)             Requested size: 113.80838pt x 142.24985pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58 <./Piemonte/Stemma Barolo.png> <./Piemonte/Stemma Bene Vagienna.png> <./Pie
+monte/Stemma Bergolo.png> <./Piemonte/Stemma Candelo.png>]
+<Piemonte/Stemma Canelli.png, id=569, 642.4pt x 769.87625pt>
+File: Piemonte/Stemma Canelli.png Graphic file (type png)
+<use Piemonte/Stemma Canelli.png>
+Package pdftex.def Info: Piemonte/Stemma Canelli.png  used on input line 2638.
+(pdftex.def)             Requested size: 113.80379pt x 142.2604pt.
+<Piemonte/Stemma Cannero Riviera.png, id=570, 429.605pt x 501.875pt>
+File: Piemonte/Stemma Cannero Riviera.png Graphic file (type png)
+<use Piemonte/Stemma Cannero Riviera.png>
+Package pdftex.def Info: Piemonte/Stemma Cannero Riviera.png  used on input lin
+e 2654.
+(pdftex.def)             Requested size: 113.80545pt x 142.26239pt.
+<Piemonte/Stemma Cannobio.png, id=571, 206.7725pt x 245.91875pt>
+File: Piemonte/Stemma Cannobio.png Graphic file (type png)
+<use Piemonte/Stemma Cannobio.png>
+Package pdftex.def Info: Piemonte/Stemma Cannobio.png  used on input line 2672.
+
+(pdftex.def)             Requested size: 113.81355pt x 142.26898pt.
+<Piemonte/Stemma Castagnole delle Lanze.png, id=572, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Castagnole delle Lanze.png Graphic file (type png)
+<use Piemonte/Stemma Castagnole delle Lanze.png>
+Package pdftex.def Info: Piemonte/Stemma Castagnole delle Lanze.png  used on in
+put line 2688.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59 <./Piemonte/Stemma Canelli.png> <./Piemonte/Stemma Cannero Riviera.png> <./
+Piemonte/Stemma Cannobio.png> <./Piemonte/Stemma Castagnole delle Lanze.png>]
+<Piemonte/Stemma Cherasco.png, id=581, 974.64125pt x 1107.13625pt>
+File: Piemonte/Stemma Cherasco.png Graphic file (type png)
+<use Piemonte/Stemma Cherasco.png>
+Package pdftex.def Info: Piemonte/Stemma Cherasco.png  used on input line 2706.
+
+(pdftex.def)             Requested size: 113.79907pt x 142.2603pt.
+<Piemonte/Stemma Chiusa di Pesio.png, id=582, 1204.5pt x 1443.3925pt>
+File: Piemonte/Stemma Chiusa di Pesio.png Graphic file (type png)
+<use Piemonte/Stemma Chiusa di Pesio.png>
+Package pdftex.def Info: Piemonte/Stemma Chiusa di Pesio.png  used on input lin
+e 2722.
+(pdftex.def)             Requested size: 113.80379pt x 142.25539pt.
+<Piemonte/Stemma Cocconato.png, id=583, 1204.5pt x 1401.235pt>
+File: Piemonte/Stemma Cocconato.png Graphic file (type png)
+<use Piemonte/Stemma Cocconato.png>
+Package pdftex.def Info: Piemonte/Stemma Cocconato.png  used on input line 2740
+.
+(pdftex.def)             Requested size: 113.80379pt x 142.24843pt.
+<Piemonte/Stemma Entracque.png, id=584, 768.8725pt x 902.37125pt>
+File: Piemonte/Stemma Entracque.png Graphic file (type png)
+<use Piemonte/Stemma Entracque.png>
+Package pdftex.def Info: Piemonte/Stemma Entracque.png  used on input line 2756
+.
+(pdftex.def)             Requested size: 113.80074pt x 142.26192pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60 <./Piemonte/Stemma Cherasco.png> <./Piemonte/Stemma Chiusa di Pesio.png> <.
+/Piemonte/Stemma Cocconato.png> <./Piemonte/Stemma Entracque.png>]
+<Piemonte/Stemma Fobello.png, id=593, 392.46625pt x 501.875pt>
+File: Piemonte/Stemma Fobello.png Graphic file (type png)
+<use Piemonte/Stemma Fobello.png>
+Package pdftex.def Info: Piemonte/Stemma Fobello.png  used on input line 2774.
+(pdftex.def)             Requested size: 113.8063pt x 142.26239pt.
+<Piemonte/Stemma Gavi.png, id=594, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Gavi.png Graphic file (type png)
+<use Piemonte/Stemma Gavi.png>
+Package pdftex.def Info: Piemonte/Stemma Gavi.png  used on input line 2790.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Piemonte/Stemma Grinzane Cavour.png, id=595, 273.02pt x 328.22626pt>
+File: Piemonte/Stemma Grinzane Cavour.png Graphic file (type png)
+<use Piemonte/Stemma Grinzane Cavour.png>
+Package pdftex.def Info: Piemonte/Stemma Grinzane Cavour.png  used on input lin
+e 2808.
+(pdftex.def)             Requested size: 113.80943pt x 142.26642pt.
+<Piemonte/Stemma Guarene.png, id=596, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Guarene.png Graphic file (type png)
+<use Piemonte/Stemma Guarene.png>
+Package pdftex.def Info: Piemonte/Stemma Guarene.png  used on input line 2824.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61 <./Piemonte/Stemma Fobello.png> <./Piemonte/Stemma Gavi.png> <./Piemonte/St
+emma Grinzane Cavour.png> <./Piemonte/Stemma Guarene.png>]
+<Piemonte/Stemma La Morra.png, id=606, 380.42125pt x 501.875pt>
+File: Piemonte/Stemma La Morra.png Graphic file (type png)
+<use Piemonte/Stemma La Morra.png>
+Package pdftex.def Info: Piemonte/Stemma La Morra.png  used on input line 2842.
+
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Piemonte/Stemma Limone Piemonte.png, id=607, 205.76875pt x 246.9225pt>
+File: Piemonte/Stemma Limone Piemonte.png Graphic file (type png)
+<use Piemonte/Stemma Limone Piemonte.png>
+Package pdftex.def Info: Piemonte/Stemma Limone Piemonte.png  used on input lin
+e 2858.
+(pdftex.def)             Requested size: 113.81052pt x 142.2619pt.
+<Piemonte/Stemma Macugnaga.png, id=608, 427.5975pt x 588.1975pt>
+File: Piemonte/Stemma Macugnaga.png Graphic file (type png)
+<use Piemonte/Stemma Macugnaga.png>
+Package pdftex.def Info: Piemonte/Stemma Macugnaga.png  used on input line 2876
+.
+(pdftex.def)             Requested size: 113.80865pt x 142.26524pt.
+<Piemonte/Stemma Malesco.png, id=609, 643.40375pt x 770.88pt>
+File: Piemonte/Stemma Malesco.png Graphic file (type png)
+<use Piemonte/Stemma Malesco.png>
+Package pdftex.def Info: Piemonte/Stemma Malesco.png  used on input line 2892.
+(pdftex.def)             Requested size: 113.8049pt x 142.25769pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62 <./Piemonte/Stemma La Morra.png> <./Piemonte/Stemma Limone Piemonte.png> <.
+/Piemonte/Stemma Macugnaga.png> <./Piemonte/Stemma Malesco.png>]
+<Piemonte/Stemma Mergozzo.png, id=619, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Mergozzo.png Graphic file (type png)
+<use Piemonte/Stemma Mergozzo.png>
+Package pdftex.def Info: Piemonte/Stemma Mergozzo.png  used on input line 2911.
+
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Piemonte/Stemma Moncalvo.png, id=620, 1204.5pt x 1396.21625pt>
+File: Piemonte/Stemma Moncalvo.png Graphic file (type png)
+<use Piemonte/Stemma Moncalvo.png>
+Package pdftex.def Info: Piemonte/Stemma Moncalvo.png  used on input line 2927.
+
+(pdftex.def)             Requested size: 113.80379pt x 142.25026pt.
+<Piemonte/Stemma Monforte d'Alba.png, id=621, 351.3125pt x 317.185pt>
+File: Piemonte/Stemma Monforte d'Alba.png Graphic file (type png)
+<use Piemonte/Stemma Monforte d'Alba.png>
+Package pdftex.def Info: Piemonte/Stemma Monforte d'Alba.png  used on input lin
+e 2945.
+(pdftex.def)             Requested size: 113.81068pt x 142.26729pt.
+<Piemonte/Stemma Neive.png, id=622, 1204.5pt x 1443.3925pt>
+File: Piemonte/Stemma Neive.png Graphic file (type png)
+<use Piemonte/Stemma Neive.png>
+Package pdftex.def Info: Piemonte/Stemma Neive.png  used on input line 2961.
+(pdftex.def)             Requested size: 113.80379pt x 142.25539pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63 <./Piemonte/Stemma Mergozzo.png> <./Piemonte/Stemma Moncalvo.png> <./Piemon
+te/Stemma Monforte d'Alba.png> <./Piemonte/Stemma Neive.png>]
+<Piemonte/Stemma Orta San Giulio.png, id=631, 287.0725pt x 501.875pt>
+File: Piemonte/Stemma Orta San Giulio.png Graphic file (type png)
+<use Piemonte/Stemma Orta San Giulio.png>
+Package pdftex.def Info: Piemonte/Stemma Orta San Giulio.png  used on input lin
+e 2979.
+(pdftex.def)             Requested size: 113.81071pt x 142.26239pt.
+<Piemonte/Stemma Ozzano Monferrato.png, id=632, 401.5pt x 501.875pt>
+File: Piemonte/Stemma Ozzano Monferrato.png Graphic file (type png)
+<use Piemonte/Stemma Ozzano Monferrato.png>
+Package pdftex.def Info: Piemonte/Stemma Ozzano Monferrato.png  used on input l
+ine 2995.
+(pdftex.def)             Requested size: 113.80992pt x 142.26239pt.
+<Piemonte/Stemma Revello.png, id=633, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Revello.png Graphic file (type png)
+<use Piemonte/Stemma Revello.png>
+Package pdftex.def Info: Piemonte/Stemma Revello.png  used on input line 3013.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Piemonte/Stemma Rosignano Monferrato.png, id=634, 365.365pt x 501.875pt>
+File: Piemonte/Stemma Rosignano Monferrato.png Graphic file (type png)
+<use Piemonte/Stemma Rosignano Monferrato.png>
+Package pdftex.def Info: Piemonte/Stemma Rosignano Monferrato.png  used on inpu
+t line 3029.
+(pdftex.def)             Requested size: 113.80832pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64 <./Piemonte/Stemma Orta San Giulio.png> <./Piemonte/Stemma Ozzano Monferrat
+o.png> <./Piemonte/Stemma Revello.png> <./Piemonte/Stemma Rosignano Monferrato.
+png>]
+<Piemonte/Stemma Santa Maria Maggiore.png, id=643, 359.3425pt x 501.875pt>
+File: Piemonte/Stemma Santa Maria Maggiore.png Graphic file (type png)
+<use Piemonte/Stemma Santa Maria Maggiore.png>
+Package pdftex.def Info: Piemonte/Stemma Santa Maria Maggiore.png  used on inpu
+t line 3047.
+(pdftex.def)             Requested size: 113.80759pt x 142.26239pt.
+<Piemonte/Stemma Susa.png, id=644, 361.35pt x 447.6725pt>
+File: Piemonte/Stemma Susa.png Graphic file (type png)
+<use Piemonte/Stemma Susa.png>
+Package pdftex.def Info: Piemonte/Stemma Susa.png  used on input line 3063.
+(pdftex.def)             Requested size: 113.80931pt x 142.26764pt.
+<Piemonte/Stemma Trisobbio.png, id=645, 205.76875pt x 245.91875pt>
+File: Piemonte/Stemma Trisobbio.png Graphic file (type png)
+<use Piemonte/Stemma Trisobbio.png>
+Package pdftex.def Info: Piemonte/Stemma Trisobbio.png  used on input line 3081
+.
+(pdftex.def)             Requested size: 113.81052pt x 142.26898pt.
+<Piemonte/Stemma Usseaux.png, id=646, 427.5975pt x 587.19376pt>
+File: Piemonte/Stemma Usseaux.png Graphic file (type png)
+<use Piemonte/Stemma Usseaux.png>
+Package pdftex.def Info: Piemonte/Stemma Usseaux.png  used on input line 3097.
+(pdftex.def)             Requested size: 113.80865pt x 142.26439pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65 <./Piemonte/Stemma Santa Maria Maggiore.png> <./Piemonte/Stemma Susa.png> <
+./Piemonte/Stemma Trisobbio.png> <./Piemonte/Stemma Usseaux.png>]
+<Piemonte/Stemma Usseglio.png, id=655, 364.36125pt x 501.875pt>
+File: Piemonte/Stemma Usseglio.png Graphic file (type png)
+<use Piemonte/Stemma Usseglio.png>
+Package pdftex.def Info: Piemonte/Stemma Usseglio.png  used on input line 3115.
+
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+<Piemonte/Stemma Varallo.png, id=656, 383.4325pt x 501.875pt>
+File: Piemonte/Stemma Varallo.png Graphic file (type png)
+<use Piemonte/Stemma Varallo.png>
+Package pdftex.def Info: Piemonte/Stemma Varallo.png  used on input line 3131.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Piemonte/Stemma Vogogna.png, id=657, 380.42125pt x 501.875pt>
+File: Piemonte/Stemma Vogogna.png Graphic file (type png)
+<use Piemonte/Stemma Vogogna.png>
+Package pdftex.def Info: Piemonte/Stemma Vogogna.png  used on input line 3149.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66 <./Piemonte/Stemma Usseglio.png> <./Piemonte/Stemma Varallo.png> <./Piemont
+e/Stemma Vogogna.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67]
+<Marche/Stemma Acquaviva Picena.png, id=671, 412.54124pt x 501.875pt>
+File: Marche/Stemma Acquaviva Picena.png Graphic file (type png)
+<use Marche/Stemma Acquaviva Picena.png>
+Package pdftex.def Info: Marche/Stemma Acquaviva Picena.png  used on input line
+ 3171.
+(pdftex.def)             Requested size: 113.81114pt x 142.26239pt.
+<Marche/Stemma Amandola.png, id=672, 803.0pt x 1029.8475pt>
+File: Marche/Stemma Amandola.png Graphic file (type png)
+<use Marche/Stemma Amandola.png>
+Package pdftex.def Info: Marche/Stemma Amandola.png  used on input line 3187.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Marche/Stemma Apecchio.png, id=673, 376.40625pt x 501.875pt>
+File: Marche/Stemma Apecchio.png Graphic file (type png)
+<use Marche/Stemma Apecchio.png>
+Package pdftex.def Info: Marche/Stemma Apecchio.png  used on input line 3205.
+(pdftex.def)             Requested size: 113.81297pt x 142.26239pt.
+<Marche/Stemma Camerino.png, id=674, 803.0pt x 1029.8475pt>
+File: Marche/Stemma Camerino.png Graphic file (type png)
+<use Marche/Stemma Camerino.png>
+Package pdftex.def Info: Marche/Stemma Camerino.png  used on input line 3221.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68 <./Marche/Stemma Acquaviva Picena.png> <./Marche/Stemma Amandola.png> <./Ma
+rche/Stemma Apecchio.png> <./Marche/Stemma Camerino.png>]
+<Marche/Stemma Cantiano.png, id=683, 361.35pt x 501.875pt>
+File: Marche/Stemma Cantiano.png Graphic file (type png)
+<use Marche/Stemma Cantiano.png>
+Package pdftex.def Info: Marche/Stemma Cantiano.png  used on input line 3239.
+(pdftex.def)             Requested size: 113.80931pt x 142.26239pt.
+<Marche/Stemma Cingoli.png, id=684, 393.47pt x 501.875pt>
+File: Marche/Stemma Cingoli.png Graphic file (type png)
+<use Marche/Stemma Cingoli.png>
+Package pdftex.def Info: Marche/Stemma Cingoli.png  used on input line 3255.
+(pdftex.def)             Requested size: 113.80917pt x 142.26239pt.
+<Marche/Stemma Corinaldo.png, id=685, 349.305pt x 501.875pt>
+File: Marche/Stemma Corinaldo.png Graphic file (type png)
+<use Marche/Stemma Corinaldo.png>
+Package pdftex.def Info: Marche/Stemma Corinaldo.png  used on input line 3273.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Marche/Stemma Frontino.png, id=686, 401.5pt x 468.75125pt>
+File: Marche/Stemma Frontino.png Graphic file (type png)
+<use Marche/Stemma Frontino.png>
+Package pdftex.def Info: Marche/Stemma Frontino.png  used on input line 3289.
+(pdftex.def)             Requested size: 113.80992pt x 142.25723pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69 <./Marche/Stemma Cantiano.png> <./Marche/Stemma Cingoli.png> <./Marche/Stem
+ma Corinaldo.png> <./Marche/Stemma Frontino.png>]
+<Marche/Stemma Frontone.png, id=695, 401.5pt x 469.755pt>
+File: Marche/Stemma Frontone.png Graphic file (type png)
+<use Marche/Stemma Frontone.png>
+Package pdftex.def Info: Marche/Stemma Frontone.png  used on input line 3307.
+(pdftex.def)             Requested size: 113.80992pt x 142.2608pt.
+<Marche/Stemma Genga.png, id=696, 426.59375pt x 501.875pt>
+File: Marche/Stemma Genga.png Graphic file (type png)
+<use Marche/Stemma Genga.png>
+Package pdftex.def Info: Marche/Stemma Genga.png  used on input line 3323.
+(pdftex.def)             Requested size: 113.80838pt x 142.26239pt.
+<Marche/Stemma Gradara.png, id=697, 644.4075pt x 772.8875pt>
+File: Marche/Stemma Gradara.png Graphic file (type png)
+<use Marche/Stemma Gradara.png>
+Package pdftex.def Info: Marche/Stemma Gradara.png  used on input line 3341.
+(pdftex.def)             Requested size: 113.80545pt x 142.26256pt.
+<Marche/Stemma Mercatello sul Metauro.png, id=698, 396.48125pt x 501.875pt>
+File: Marche/Stemma Mercatello sul Metauro.png Graphic file (type png)
+<use Marche/Stemma Mercatello sul Metauro.png>
+Package pdftex.def Info: Marche/Stemma Mercatello sul Metauro.png  used on inpu
+t line 3357.
+(pdftex.def)             Requested size: 113.80899pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70 <./Marche/Stemma Frontone.png> <./Marche/Stemma Genga.png> <./Marche/Stemma
+ Gradara.png> <./Marche/Stemma Mercatello sul Metauro.png>]
+<Marche/Stemma Mondavio.png, id=707, 202.7575pt x 250.9375pt>
+File: Marche/Stemma Mondavio.png Graphic file (type png)
+<use Marche/Stemma Mondavio.png>
+Package pdftex.def Info: Marche/Stemma Mondavio.png  used on input line 3375.
+(pdftex.def)             Requested size: 113.81258pt x 142.27005pt.
+<Marche/Stemma Montecassiano.png, id=708, 369.38pt x 501.875pt>
+File: Marche/Stemma Montecassiano.png Graphic file (type png)
+<use Marche/Stemma Montecassiano.png>
+Package pdftex.def Info: Marche/Stemma Montecassiano.png  used on input line 33
+91.
+(pdftex.def)             Requested size: 113.80771pt x 142.26239pt.
+<Marche/Stemma Montelupone.png, id=709, 208.78pt x 243.91125pt>
+File: Marche/Stemma Montelupone.png Graphic file (type png)
+<use Marche/Stemma Montelupone.png>
+Package pdftex.def Info: Marche/Stemma Montelupone.png  used on input line 3409
+.
+(pdftex.def)             Requested size: 113.8131pt x 142.26508pt.
+<Marche/Stemma Monterubbiano.png, id=710, 346.29375pt x 501.875pt>
+File: Marche/Stemma Monterubbiano.png Graphic file (type png)
+<use Marche/Stemma Monterubbiano.png>
+Package pdftex.def Info: Marche/Stemma Monterubbiano.png  used on input line 34
+25.
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71 <./Marche/Stemma Mondavio.png> <./Marche/Stemma Montecassiano.png> <./March
+e/Stemma Montelupone.png> <./Marche/Stemma Monterubbiano.png>]
+<Marche/Stemma Morrovalle.png, id=719, 429.605pt x 501.875pt>
+File: Marche/Stemma Morrovalle.png Graphic file (type png)
+<use Marche/Stemma Morrovalle.png>
+Package pdftex.def Info: Marche/Stemma Morrovalle.png  used on input line 3443.
+
+(pdftex.def)             Requested size: 113.80545pt x 142.26239pt.
+<Marche/Stemma Offagna.png, id=720, 198.7425pt x 254.9525pt>
+File: Marche/Stemma Offagna.png Graphic file (type png)
+<use Marche/Stemma Offagna.png>
+Package pdftex.def Info: Marche/Stemma Offagna.png  used on input line 3459.
+(pdftex.def)             Requested size: 113.8151pt x 142.27057pt.
+<Marche/Stemma Ostra.png, id=721, 405.515pt x 501.875pt>
+File: Marche/Stemma Ostra.png Graphic file (type png)
+<use Marche/Stemma Ostra.png>
+Package pdftex.def Info: Marche/Stemma Ostra.png  used on input line 3477.
+(pdftex.def)             Requested size: 113.80948pt x 142.26239pt.
+<Marche/Stemma Ripatransone.png, id=722, 398.48875pt x 501.875pt>
+File: Marche/Stemma Ripatransone.png Graphic file (type png)
+<use Marche/Stemma Ripatransone.png>
+Package pdftex.def Info: Marche/Stemma Ripatransone.png  used on input line 349
+3.
+(pdftex.def)             Requested size: 113.8076pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72 <./Marche/Stemma Morrovalle.png> <./Marche/Stemma Offagna.png> <./Marche/St
+emma Ostra.png> <./Marche/Stemma Ripatransone.png>]
+<Marche/Stemma San Ginesio.png, id=731, 429.605pt x 501.875pt>
+File: Marche/Stemma San Ginesio.png Graphic file (type png)
+<use Marche/Stemma San Ginesio.png>
+Package pdftex.def Info: Marche/Stemma San Ginesio.png  used on input line 3511
+.
+(pdftex.def)             Requested size: 113.80545pt x 142.26239pt.
+<Marche/Stemma San Severino Marche.png, id=732, 429.605pt x 501.875pt>
+File: Marche/Stemma San Severino Marche.png Graphic file (type png)
+<use Marche/Stemma San Severino Marche.png>
+Package pdftex.def Info: Marche/Stemma San Severino Marche.png  used on input l
+ine 3527.
+(pdftex.def)             Requested size: 113.80545pt x 142.26239pt.
+<Marche/Stemma Sarnano.png, id=733, 425.59pt x 501.875pt>
+File: Marche/Stemma Sarnano.png Graphic file (type png)
+<use Marche/Stemma Sarnano.png>
+Package pdftex.def Info: Marche/Stemma Sarnano.png  used on input line 3545.
+(pdftex.def)             Requested size: 113.80685pt x 142.26239pt.
+<Marche/Stemma Serra San Quirico.png, id=734, 355.3275pt x 501.875pt>
+File: Marche/Stemma Serra San Quirico.png Graphic file (type png)
+<use Marche/Stemma Serra San Quirico.png>
+Package pdftex.def Info: Marche/Stemma Serra San Quirico.png  used on input lin
+e 3561.
+(pdftex.def)             Requested size: 113.81012pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73 <./Marche/Stemma San Ginesio.png> <./Marche/Stemma San Severino Marche.png>
+ <./Marche/Stemma Sarnano.png> <./Marche/Stemma Serra San Quirico.png>]
+<Marche/Stemma Staffolo.png, id=744, 417.56pt x 601.24625pt>
+File: Marche/Stemma Staffolo.png Graphic file (type png)
+<use Marche/Stemma Staffolo.png>
+Package pdftex.def Info: Marche/Stemma Staffolo.png  used on input line 3580.
+(pdftex.def)             Requested size: 113.80673pt x 142.26535pt.
+<Marche/Stemma Urbisaglia.png, id=745, 368.37625pt x 501.875pt>
+File: Marche/Stemma Urbisaglia.png Graphic file (type png)
+<use Marche/Stemma Urbisaglia.png>
+Package pdftex.def Info: Marche/Stemma Urbisaglia.png  used on input line 3596.
+
+(pdftex.def)             Requested size: 113.8076pt x 142.26239pt.
+<Marche/Stemma Valfornace.png, id=746, 364.36125pt x 501.875pt>
+File: Marche/Stemma Valfornace.png Graphic file (type png)
+<use Marche/Stemma Valfornace.png>
+Package pdftex.def Info: Marche/Stemma Valfornace.png  used on input line 3614.
+
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+<Marche/Stemma Visso.png, id=747, 208.78pt x 243.91125pt>
+File: Marche/Stemma Visso.png Graphic file (type png)
+<use Marche/Stemma Visso.png>
+Package pdftex.def Info: Marche/Stemma Visso.png  used on input line 3630.
+(pdftex.def)             Requested size: 113.8131pt x 142.26508pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74 <./Marche/Stemma Staffolo.png> <./Marche/Stemma Urbisaglia.png> <./Marche/S
+temma Valfornace.png> <./Marche/Stemma Visso.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75]
+<Veneto/Stemma Arquà Petrarca.png, id=761, 1705.37125pt x 2054.67625pt>
+File: Veneto/Stemma Arquà Petrarca.png Graphic file (type png)
+<use Veneto/Stemma Arquà Petrarca.png>
+Package pdftex.def Info: Veneto/Stemma Arquà Petrarca.png  used on input line 
+3653.
+(pdftex.def)             Requested size: 113.79349pt x 142.24309pt.
+<Veneto/Stemma Asolo.png, id=762, 394.47375pt x 501.875pt>
+File: Veneto/Stemma Asolo.png Graphic file (type png)
+<use Veneto/Stemma Asolo.png>
+Package pdftex.def Info: Veneto/Stemma Asolo.png  used on input line 3669.
+(pdftex.def)             Requested size: 113.8106pt x 142.26239pt.
+<Veneto/Stemma Borgo Valbelluna.png, id=763, 364.36125pt x 501.875pt>
+File: Veneto/Stemma Borgo Valbelluna.png Graphic file (type png)
+<use Veneto/Stemma Borgo Valbelluna.png>
+Package pdftex.def Info: Veneto/Stemma Borgo Valbelluna.png  used on input line
+ 3687.
+(pdftex.def)             Requested size: 113.807pt x 142.26239pt.
+<Veneto/Stemma Cison di Valmarino.png, id=764, 755.82375pt x 901.3675pt>
+File: Veneto/Stemma Cison di Valmarino.png Graphic file (type png)
+<use Veneto/Stemma Cison di Valmarino.png>
+Package pdftex.def Info: Veneto/Stemma Cison di Valmarino.png  used on input li
+ne 3703.
+(pdftex.def)             Requested size: 113.80692pt x 142.25496pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76 <./Veneto/Stemma Arquà Petrarca.png> <./Veneto/Stemma Asolo.png> <./Veneto
+/Stemma Borgo Valbelluna.png> <./Veneto/Stemma Cison di Valmarino.png>]
+<Veneto/Stemma Follina.png, id=773, 361.35pt x 501.875pt>
+File: Veneto/Stemma Follina.png Graphic file (type png)
+<use Veneto/Stemma Follina.png>
+Package pdftex.def Info: Veneto/Stemma Follina.png  used on input line 3721.
+(pdftex.def)             Requested size: 113.80931pt x 142.26239pt.
+<Veneto/Stemma Malcesine.png, id=774, 196.735pt x 257.96375pt>
+File: Veneto/Stemma Malcesine.png Graphic file (type png)
+<use Veneto/Stemma Malcesine.png>
+Package pdftex.def Info: Veneto/Stemma Malcesine.png  used on input line 3737.
+(pdftex.def)             Requested size: 113.80917pt x 142.26624pt.
+<Veneto/Stemma Marostica.png, id=775, 801.99625pt x 1027.84pt>
+File: Veneto/Stemma Marostica.png Graphic file (type png)
+<use Veneto/Stemma Marostica.png>
+Package pdftex.def Info: Veneto/Stemma Marostica.png  used on input line 3755.
+(pdftex.def)             Requested size: 113.80838pt x 142.24985pt.
+<Veneto/Stemma Montagnana.png, id=776, 1204.5pt x 1543.7675pt>
+File: Veneto/Stemma Montagnana.png Graphic file (type png)
+<use Veneto/Stemma Montagnana.png>
+Package pdftex.def Info: Veneto/Stemma Montagnana.png  used on input line 3771.
+
+(pdftex.def)             Requested size: 113.80379pt x 142.25447pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77 <./Veneto/Stemma Follina.png> <./Veneto/Stemma Malcesine.png> <./Veneto/Ste
+mma Marostica.png> <./Veneto/Stemma Montagnana.png>]
+<Veneto/Stemma Portobuffolè.png, id=785, 310.15875pt x 501.875pt>
+File: Veneto/Stemma Portobuffolè.png Graphic file (type png)
+<use Veneto/Stemma Portobuffolè.png>
+Package pdftex.def Info: Veneto/Stemma Portobuffolè.png  used on input line 37
+89.
+(pdftex.def)             Requested size: 113.81041pt x 142.26239pt.
+<Veneto/Stemma Rocca Pietore.png, id=786, 337.26pt x 501.875pt>
+File: Veneto/Stemma Rocca Pietore.png Graphic file (type png)
+<use Veneto/Stemma Rocca Pietore.png>
+Package pdftex.def Info: Veneto/Stemma Rocca Pietore.png  used on input line 38
+05.
+(pdftex.def)             Requested size: 113.80746pt x 142.26239pt.
+<Veneto/Stemma Soave.png, id=787, 383.4325pt x 501.875pt>
+File: Veneto/Stemma Soave.png Graphic file (type png)
+<use Veneto/Stemma Soave.png>
+Package pdftex.def Info: Veneto/Stemma Soave.png  used on input line 3823.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Veneto/Stemma Valeggio sul Mincio.png, id=788, 409.53pt x 501.875pt>
+File: Veneto/Stemma Valeggio sul Mincio.png Graphic file (type png)
+<use Veneto/Stemma Valeggio sul Mincio.png>
+Package pdftex.def Info: Veneto/Stemma Valeggio sul Mincio.png  used on input l
+ine 3839.
+(pdftex.def)             Requested size: 113.81151pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78 <./Veneto/Stemma Portobuffolè.png> <./Veneto/Stemma Rocca Pietore.png> <./
+Veneto/Stemma Soave.png> <./Veneto/Stemma Valeggio sul Mincio.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79]
+<Umbria/Stemma Bevagna.png, id=803, 401.5pt x 501.875pt>
+File: Umbria/Stemma Bevagna.png Graphic file (type png)
+<use Umbria/Stemma Bevagna.png>
+Package pdftex.def Info: Umbria/Stemma Bevagna.png  used on input line 3861.
+(pdftex.def)             Requested size: 113.80992pt x 142.26239pt.
+<Umbria/Stemma Città della Pieve.png, id=804, 319.1925pt x 501.875pt>
+File: Umbria/Stemma Città della Pieve.png Graphic file (type png)
+<use Umbria/Stemma Città della Pieve.png>
+Package pdftex.def Info: Umbria/Stemma Città della Pieve.png  used on input li
+ne 3877.
+(pdftex.def)             Requested size: 113.80847pt x 142.26239pt.
+<Umbria/Stemma Montefalco.png, id=805, 400.49625pt x 501.875pt>
+File: Umbria/Stemma Montefalco.png Graphic file (type png)
+<use Umbria/Stemma Montefalco.png>
+Package pdftex.def Info: Umbria/Stemma Montefalco.png  used on input line 3895.
+
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Umbria/Stemma Montone.png, id=806, 384.43625pt x 501.875pt>
+File: Umbria/Stemma Montone.png Graphic file (type png)
+<use Umbria/Stemma Montone.png>
+Package pdftex.def Info: Umbria/Stemma Montone.png  used on input line 3911.
+(pdftex.def)             Requested size: 113.81245pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80 <./Umbria/Stemma Bevagna.png> <./Umbria/Stemma Città della Pieve.png> <./U
+mbria/Stemma Montefalco.png> <./Umbria/Stemma Montone.png>]
+<Umbria/Stemma Nocera Umbra.png, id=815, 458.71375pt x 501.875pt>
+File: Umbria/Stemma Nocera Umbra.png Graphic file (type png)
+<use Umbria/Stemma Nocera Umbra.png>
+Package pdftex.def Info: Umbria/Stemma Nocera Umbra.png  used on input line 392
+9.
+(pdftex.def)             Requested size: 113.81023pt x 142.26239pt.
+<Umbria/Stemma Norcia.png, id=816, 644.4075pt x 782.925pt>
+File: Umbria/Stemma Norcia.png Graphic file (type png)
+<use Umbria/Stemma Norcia.png>
+Package pdftex.def Info: Umbria/Stemma Norcia.png  used on input line 3945.
+(pdftex.def)             Requested size: 113.80545pt x 142.25842pt.
+<Umbria/Stemma Panicale.png, id=817, 380.42125pt x 501.875pt>
+File: Umbria/Stemma Panicale.png Graphic file (type png)
+<use Umbria/Stemma Panicale.png>
+Package pdftex.def Info: Umbria/Stemma Panicale.png  used on input line 3963.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Umbria/Stemma Spello.png, id=818, 400.49625pt x 501.875pt>
+File: Umbria/Stemma Spello.png Graphic file (type png)
+<use Umbria/Stemma Spello.png>
+Package pdftex.def Info: Umbria/Stemma Spello.png  used on input line 3979.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81 <./Umbria/Stemma Nocera Umbra.png> <./Umbria/Stemma Norcia.png> <./Umbria/S
+temma Panicale.png> <./Umbria/Stemma Spello.png>]
+<Umbria/Stemma Trevi.png, id=827, 400.49625pt x 501.875pt>
+File: Umbria/Stemma Trevi.png Graphic file (type png)
+<use Umbria/Stemma Trevi.png>
+Package pdftex.def Info: Umbria/Stemma Trevi.png  used on input line 3997.
+(pdftex.def)             Requested size: 113.8065pt x 142.26239pt.
+<Umbria/Stemma Vallo di Nera.png, id=828, 383.4325pt x 501.875pt>
+File: Umbria/Stemma Vallo di Nera.png Graphic file (type png)
+<use Umbria/Stemma Vallo di Nera.png>
+Package pdftex.def Info: Umbria/Stemma Vallo di Nera.png  used on input line 40
+13.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82 <./Umbria/Stemma Trevi.png> <./Umbria/Stemma Vallo di Nera.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+<Trentino Alto Adige/Stemma Ala.png, id=840, 572.1375pt x 770.88pt>
+File: Trentino Alto Adige/Stemma Ala.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Ala.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Ala.png  used on input line
+ 4035.
+(pdftex.def)             Requested size: 113.80563pt x 142.25769pt.
+<Trentino Alto Adige/Stemma Caderzone Terme.png, id=841, 195.73125pt x 258.9675
+pt>
+File: Trentino Alto Adige/Stemma Caderzone Terme.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Caderzone Terme.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Caderzone Terme.png  used o
+n input line 4051.
+(pdftex.def)             Requested size: 113.81091pt x 142.27054pt.
+<Trentino Alto Adige/Stemma Campo Tures Sand in Taufers.png, id=842, 299.1175pt
+ x 351.3125pt>
+File: Trentino Alto Adige/Stemma Campo Tures Sand in Taufers.png Graphic file (
+type png)
+<use Trentino Alto Adige/Stemma Campo Tures Sand in Taufers.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Campo Tures Sand in Taufers
+.png  used on input line 4070.
+(pdftex.def)             Requested size: 113.81187pt x 142.2647pt.
+<Trentino Alto Adige/Stemma Ledro.jpg, id=843, 195.73125pt x 258.9675pt>
+File: Trentino Alto Adige/Stemma Ledro.jpg Graphic file (type jpg)
+<use Trentino Alto Adige/Stemma Ledro.jpg>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Ledro.jpg  used on input li
+ne 4086.
+(pdftex.def)             Requested size: 113.81091pt x 142.27054pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84 <./Trentino Alto Adige/Stemma Ala.png> <./Trentino Alto Adige/Stemma Caderz
+one Terme.png> <./Trentino Alto Adige/Stemma Campo Tures Sand in Taufers.png> <
+./Trentino Alto Adige/Stemma Ledro.jpg>]
+<Trentino Alto Adige/Stemma Levico Terme.png, id=851, 803.0pt x 1029.8475pt>
+File: Trentino Alto Adige/Stemma Levico Terme.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Levico Terme.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Levico Terme.png  used on i
+nput line 4104.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Trentino Alto Adige/Stemma Molveno.png, id=852, 366.36874pt x 501.875pt>
+File: Trentino Alto Adige/Stemma Molveno.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Molveno.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Molveno.png  used on input 
+line 4120.
+(pdftex.def)             Requested size: 113.80792pt x 142.26239pt.
+<Trentino Alto Adige/Stemma Tenno.png, id=853, 292.09125pt x 351.3125pt>
+File: Trentino Alto Adige/Stemma Tenno.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Tenno.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Tenno.png  used on input li
+ne 4139.
+(pdftex.def)             Requested size: 113.8126pt x 142.2647pt.
+<Trentino Alto Adige/Stemma Vipiteno Sterzing.png, id=854, 494.84875pt x 507.89
+75pt>
+File: Trentino Alto Adige/Stemma Vipiteno Sterzing.png Graphic file (type png)
+<use Trentino Alto Adige/Stemma Vipiteno Sterzing.png>
+Package pdftex.def Info: Trentino Alto Adige/Stemma Vipiteno Sterzing.png  used
+ on input line 4155.
+(pdftex.def)             Requested size: 113.80527pt x 142.26457pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85 <./Trentino Alto Adige/Stemma Levico Terme.png> <./Trentino Alto Adige/Stem
+ma Molveno.png> <./Trentino Alto Adige/Stemma Tenno.png> <./Trentino Alto Adige
+/Stemma Vipiteno Sterzing.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86]
+<Puglia/Stemma Alberona.png, id=869, 803.0pt x 1029.8475pt>
+File: Puglia/Stemma Alberona.png Graphic file (type png)
+<use Puglia/Stemma Alberona.png>
+Package pdftex.def Info: Puglia/Stemma Alberona.png  used on input line 4178.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Puglia/Stemma Biccari.png, id=870, 150.5625pt x 172.645pt>
+File: Puglia/Stemma Biccari.png Graphic file (type png)
+<use Puglia/Stemma Biccari.png>
+Package pdftex.def Info: Puglia/Stemma Biccari.png  used on input line 4194.
+(pdftex.def)             Requested size: 113.81526pt x 142.26526pt.
+<Puglia/Stemma Bovino.png, id=871, 335.2525pt x 501.875pt>
+File: Puglia/Stemma Bovino.png Graphic file (type png)
+<use Puglia/Stemma Bovino.png>
+Package pdftex.def Info: Puglia/Stemma Bovino.png  used on input line 4212.
+(pdftex.def)             Requested size: 113.81041pt x 142.26239pt.
+<Puglia/Stemma Cisternino.png, id=872, 1204.5pt x 1437.37pt>
+File: Puglia/Stemma Cisternino.png Graphic file (type png)
+<use Puglia/Stemma Cisternino.png>
+Package pdftex.def Info: Puglia/Stemma Cisternino.png  used on input line 4228.
+
+(pdftex.def)             Requested size: 113.80379pt x 142.25401pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87 <./Puglia/Stemma Alberona.png> <./Puglia/Stemma Biccari.png> <./Puglia/Stem
+ma Bovino.png> <./Puglia/Stemma Cisternino.png>]
+<Puglia/Stemma Corigliano d'Otranto.png, id=881, 351.3125pt x 501.875pt>
+File: Puglia/Stemma Corigliano d'Otranto.png Graphic file (type png)
+<use Puglia/Stemma Corigliano d'Otranto.png>
+Package pdftex.def Info: Puglia/Stemma Corigliano d'Otranto.png  used on input 
+line 4246.
+(pdftex.def)             Requested size: 113.81068pt x 142.26239pt.
+<Puglia/Stemma Locorotondo.png, id=882, 390.45876pt x 501.875pt>
+File: Puglia/Stemma Locorotondo.png Graphic file (type png)
+<use Puglia/Stemma Locorotondo.png>
+Package pdftex.def Info: Puglia/Stemma Locorotondo.png  used on input line 4262
+.
+(pdftex.def)             Requested size: 113.80804pt x 142.26239pt.
+<Puglia/Stemma Oria.png, id=883, 286.06876pt x 369.38pt>
+File: Puglia/Stemma Oria.png Graphic file (type png)
+<use Puglia/Stemma Oria.png>
+Package pdftex.def Info: Puglia/Stemma Oria.png  used on input line 4280.
+(pdftex.def)             Requested size: 113.81pt x 142.26527pt.
+<Puglia/Stemma Orsara di Puglia.png, id=884, 380.42125pt x 501.875pt>
+File: Puglia/Stemma Orsara di Puglia.png Graphic file (type png)
+<use Puglia/Stemma Orsara di Puglia.png>
+Package pdftex.def Info: Puglia/Stemma Orsara di Puglia.png  used on input line
+ 4296.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88 <./Puglia/Stemma Corigliano d'Otranto.png> <./Puglia/Stemma Locorotondo.png
+> <./Puglia/Stemma Oria.png> <./Puglia/Stemma Orsara di Puglia.png>]
+<Puglia/Stemma Pietramontecorvino.png, id=893, 301.125pt x 301.125pt>
+File: Puglia/Stemma Pietramontecorvino.png Graphic file (type png)
+<use Puglia/Stemma Pietramontecorvino.png>
+Package pdftex.def Info: Puglia/Stemma Pietramontecorvino.png  used on input li
+ne 4314.
+(pdftex.def)             Requested size: 113.81297pt x 142.26852pt.
+<Puglia/Stemma Rocchetta Sant'Antonio.png, id=894, 417.56pt x 601.24625pt>
+File: Puglia/Stemma Rocchetta Sant'Antonio.png Graphic file (type png)
+<use Puglia/Stemma Rocchetta Sant'Antonio.png>
+Package pdftex.def Info: Puglia/Stemma Rocchetta Sant'Antonio.png  used on inpu
+t line 4330.
+(pdftex.def)             Requested size: 113.80673pt x 142.26535pt.
+<Puglia/Stemma Roseto Valfortore.png, id=895, 392.46625pt x 501.875pt>
+File: Puglia/Stemma Roseto Valfortore.png Graphic file (type png)
+<use Puglia/Stemma Roseto Valfortore.png>
+Package pdftex.def Info: Puglia/Stemma Roseto Valfortore.png  used on input lin
+e 4348.
+(pdftex.def)             Requested size: 113.8063pt x 142.26239pt.
+<Puglia/Stemma Sant'Agata di Puglia.png, id=896, 421.575pt x 596.2275pt>
+File: Puglia/Stemma Sant'Agata di Puglia.png Graphic file (type png)
+<use Puglia/Stemma Sant'Agata di Puglia.png>
+Package pdftex.def Info: Puglia/Stemma Sant'Agata di Puglia.png  used on input 
+line 4364.
+(pdftex.def)             Requested size: 113.80746pt x 142.26053pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89 <./Puglia/Stemma Pietramontecorvino.png> <./Puglia/Stemma Rocchetta Sant'An
+tonio.png> <./Puglia/Stemma Roseto Valfortore.png> <./Puglia/Stemma Sant'Agata 
+di Puglia.png>]
+<Puglia/Stemma Specchia.png, id=905, 383.4325pt x 501.875pt>
+File: Puglia/Stemma Specchia.png Graphic file (type png)
+<use Puglia/Stemma Specchia.png>
+Package pdftex.def Info: Puglia/Stemma Specchia.png  used on input line 4382.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Puglia/Stemma Troia.png, id=906, 587.19376pt x 752.8125pt>
+File: Puglia/Stemma Troia.png Graphic file (type png)
+<use Puglia/Stemma Troia.png>
+Package pdftex.def Info: Puglia/Stemma Troia.png  used on input line 4398.
+(pdftex.def)             Requested size: 113.80792pt x 142.26622pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90 <./Puglia/Stemma Specchia.png> <./Puglia/Stemma Troia.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91]
+<Lombardia/Stemma Almenno San Bartolomeo.png, id=919, 630.355pt x 755.82375pt>
+File: Lombardia/Stemma Almenno San Bartolomeo.png Graphic file (type png)
+<use Lombardia/Stemma Almenno San Bartolomeo.png>
+Package pdftex.def Info: Lombardia/Stemma Almenno San Bartolomeo.png  used on i
+nput line 4420.
+(pdftex.def)             Requested size: 113.80527pt x 142.25865pt.
+<Lombardia/Stemma Bellano.png, id=920, 368.37625pt x 501.875pt>
+File: Lombardia/Stemma Bellano.png Graphic file (type png)
+<use Lombardia/Stemma Bellano.png>
+Package pdftex.def Info: Lombardia/Stemma Bellano.png  used on input line 4436.
+
+(pdftex.def)             Requested size: 113.8076pt x 142.26239pt.
+<Lombardia/Stemma Bienno.png, id=921, 448.67625pt x 501.875pt>
+File: Lombardia/Stemma Bienno.png Graphic file (type png)
+<use Lombardia/Stemma Bienno.png>
+Package pdftex.def Info: Lombardia/Stemma Bienno.png  used on input line 4454.
+(pdftex.def)             Requested size: 113.80504pt x 142.26239pt.
+<Lombardia/Stemma Castellaro Lagusello.png, id=922, 301.125pt x 301.125pt>
+File: Lombardia/Stemma Castellaro Lagusello.png Graphic file (type png)
+<use Lombardia/Stemma Castellaro Lagusello.png>
+Package pdftex.def Info: Lombardia/Stemma Castellaro Lagusello.png  used on inp
+ut line 4470.
+(pdftex.def)             Requested size: 113.81297pt x 142.26852pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92 <./Lombardia/Stemma Almenno San Bartolomeo.png> <./Lombardia/Stemma Bellano
+.png> <./Lombardia/Stemma Bienno.png> <./Lombardia/Stemma Castellaro Lagusello.
+png>]
+<Lombardia/Stemma Castione della Presolana.png, id=931, 359.3425pt x 501.875pt>
+
+File: Lombardia/Stemma Castione della Presolana.png Graphic file (type png)
+<use Lombardia/Stemma Castione della Presolana.png>
+Package pdftex.def Info: Lombardia/Stemma Castione della Presolana.png  used on
+ input line 4488.
+(pdftex.def)             Requested size: 113.80759pt x 142.26239pt.
+<Lombardia/Stemma Chiavenna.png, id=932, 383.4325pt x 501.875pt>
+File: Lombardia/Stemma Chiavenna.png Graphic file (type png)
+<use Lombardia/Stemma Chiavenna.png>
+Package pdftex.def Info: Lombardia/Stemma Chiavenna.png  used on input line 450
+4.
+(pdftex.def)             Requested size: 113.80783pt x 142.26239pt.
+<Lombardia/Stemma Clusone.png, id=933, 301.125pt x 360.34625pt>
+File: Lombardia/Stemma Clusone.png Graphic file (type png)
+<use Lombardia/Stemma Clusone.png>
+Package pdftex.def Info: Lombardia/Stemma Clusone.png  used on input line 4522.
+
+(pdftex.def)             Requested size: 113.81297pt x 142.26097pt.
+<Lombardia/Stemma Gardone Riviera.png, id=934, 803.0pt x 1029.8475pt>
+File: Lombardia/Stemma Gardone Riviera.png Graphic file (type png)
+<use Lombardia/Stemma Gardone Riviera.png>
+Package pdftex.def Info: Lombardia/Stemma Gardone Riviera.png  used on input li
+ne 4538.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93 <./Lombardia/Stemma Castione della Presolana.png> <./Lombardia/Stemma Chiav
+enna.png> <./Lombardia/Stemma Clusone.png> <./Lombardia/Stemma Gardone Riviera.
+png>]
+<Lombardia/Stemma Gromo.png, id=944, 380.42125pt x 501.875pt>
+File: Lombardia/Stemma Gromo.png Graphic file (type png)
+<use Lombardia/Stemma Gromo.png>
+Package pdftex.def Info: Lombardia/Stemma Gromo.png  used on input line 4556.
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Lombardia/Stemma Menaggio.png, id=945, 491.8375pt x 501.875pt>
+File: Lombardia/Stemma Menaggio.png Graphic file (type png)
+<use Lombardia/Stemma Menaggio.png>
+Package pdftex.def Info: Lombardia/Stemma Menaggio.png  used on input line 4572
+.
+(pdftex.def)             Requested size: 113.81068pt x 142.26239pt.
+<Lombardia/Stemma Moltrasio.png, id=946, 315.1775pt x 462.72874pt>
+File: Lombardia/Stemma Moltrasio.png Graphic file (type png)
+<use Lombardia/Stemma Moltrasio.png>
+Package pdftex.def Info: Lombardia/Stemma Moltrasio.png  used on input line 459
+0.
+(pdftex.def)             Requested size: 113.81007pt x 142.26529pt.
+<Lombardia/Stemma Pizzighettone.png, id=947, 587.19376pt x 752.8125pt>
+File: Lombardia/Stemma Pizzighettone.png Graphic file (type png)
+<use Lombardia/Stemma Pizzighettone.png>
+Package pdftex.def Info: Lombardia/Stemma Pizzighettone.png  used on input line
+ 4606.
+(pdftex.def)             Requested size: 113.80792pt x 142.26622pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94 <./Lombardia/Stemma Gromo.png> <./Lombardia/Stemma Menaggio.png> <./Lombard
+ia/Stemma Moltrasio.png> <./Lombardia/Stemma Pizzighettone.png>]
+<Lombardia/Stemma Ponti sul Mincio.png, id=956, 352.31625pt x 501.875pt>
+File: Lombardia/Stemma Ponti sul Mincio.png Graphic file (type png)
+<use Lombardia/Stemma Ponti sul Mincio.png>
+Package pdftex.def Info: Lombardia/Stemma Ponti sul Mincio.png  used on input l
+ine 4624.
+(pdftex.def)             Requested size: 113.80792pt x 142.26239pt.
+<Lombardia/Stemma Sabbioneta.png, id=957, 362.35374pt x 501.875pt>
+File: Lombardia/Stemma Sabbioneta.png Graphic file (type png)
+<use Lombardia/Stemma Sabbioneta.png>
+Package pdftex.def Info: Lombardia/Stemma Sabbioneta.png  used on input line 46
+40.
+(pdftex.def)             Requested size: 113.81029pt x 142.26239pt.
+<Lombardia/Stemma Sarnico.png, id=958, 861.2175pt x 1027.84pt>
+File: Lombardia/Stemma Sarnico.png Graphic file (type png)
+<use Lombardia/Stemma Sarnico.png>
+Package pdftex.def Info: Lombardia/Stemma Sarnico.png  used on input line 4658.
+
+(pdftex.def)             Requested size: 113.80196pt x 142.24985pt.
+<Lombardia/Stemma Solferino.png, id=959, 368.37625pt x 501.875pt>
+File: Lombardia/Stemma Solferino.png Graphic file (type png)
+<use Lombardia/Stemma Solferino.png>
+Package pdftex.def Info: Lombardia/Stemma Solferino.png  used on input line 467
+4.
+(pdftex.def)             Requested size: 113.8076pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95 <./Lombardia/Stemma Ponti sul Mincio.png> <./Lombardia/Stemma Sabbioneta.pn
+g> <./Lombardia/Stemma Sarnico.png> <./Lombardia/Stemma Solferino.png>]
+<Lombardia/Stemma Tignale.png, id=968, 330.23375pt x 391.4625pt>
+File: Lombardia/Stemma Tignale.png Graphic file (type png)
+<use Lombardia/Stemma Tignale.png>
+Package pdftex.def Info: Lombardia/Stemma Tignale.png  used on input line 4692.
+
+(pdftex.def)             Requested size: 113.80981pt x 142.26439pt.
+<Lombardia/Stemma Torno.png, id=969, 250.9375pt x 258.9675pt>
+File: Lombardia/Stemma Torno.png Graphic file (type png)
+<use Lombardia/Stemma Torno.png>
+Package pdftex.def Info: Lombardia/Stemma Torno.png  used on input line 4708.
+(pdftex.def)             Requested size: 113.81297pt x 142.27054pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96 <./Lombardia/Stemma Tignale.png> <./Lombardia/Stemma Torno.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97]
+<Liguria/Stemma Airole.png, id=982, 803.0pt x 962.59625pt>
+File: Liguria/Stemma Airole.png Graphic file (type png)
+<use Liguria/Stemma Airole.png>
+Package pdftex.def Info: Liguria/Stemma Airole.png  used on input line 4730.
+(pdftex.def)             Requested size: 113.80379pt x 142.25343pt.
+<Liguria/Stemma Apricale.png, id=983, 704.6325pt x 902.37125pt>
+File: Liguria/Stemma Apricale.png Graphic file (type png)
+<use Liguria/Stemma Apricale.png>
+Package pdftex.def Info: Liguria/Stemma Apricale.png  used on input line 4746.
+(pdftex.def)             Requested size: 113.80794pt x 142.26192pt.
+<Liguria/Stemma Badalucco.png, id=984, 380.42125pt x 501.875pt>
+File: Liguria/Stemma Badalucco.png Graphic file (type png)
+<use Liguria/Stemma Badalucco.png>
+Package pdftex.def Info: Liguria/Stemma Badalucco.png  used on input line 4764.
+
+(pdftex.def)             Requested size: 113.80798pt x 142.26239pt.
+<Liguria/Stemma Brugnato.png, id=985, 302.12875pt x 502.87875pt>
+File: Liguria/Stemma Brugnato.png Graphic file (type png)
+<use Liguria/Stemma Brugnato.png>
+Package pdftex.def Info: Liguria/Stemma Brugnato.png  used on input line 4780.
+(pdftex.def)             Requested size: 113.80972pt x 142.26302pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98 <./Liguria/Stemma Airole.png> <./Liguria/Stemma Apricale.png> <./Liguria/St
+emma Badalucco.png> <./Liguria/Stemma Brugnato.png>]
+<Liguria/Stemma Castelnuovo Magra.png, id=994, 803.0pt x 1029.8475pt>
+File: Liguria/Stemma Castelnuovo Magra.png Graphic file (type png)
+<use Liguria/Stemma Castelnuovo Magra.png>
+Package pdftex.def Info: Liguria/Stemma Castelnuovo Magra.png  used on input li
+ne 4798.
+(pdftex.def)             Requested size: 113.80379pt x 142.26053pt.
+<Liguria/Stemma Castelvecchio di Rocca Barbena.png, id=995, 644.4075pt x 772.88
+75pt>
+File: Liguria/Stemma Castelvecchio di Rocca Barbena.png Graphic file (type png)
+
+<use Liguria/Stemma Castelvecchio di Rocca Barbena.png>
+Package pdftex.def Info: Liguria/Stemma Castelvecchio di Rocca Barbena.png  use
+d on input line 4814.
+(pdftex.def)             Requested size: 113.80545pt x 142.26256pt.
+<Liguria/Stemma Dolceacqua.png, id=996, 200.75pt x 252.945pt>
+File: Liguria/Stemma Dolceacqua.png Graphic file (type png)
+<use Liguria/Stemma Dolceacqua.png>
+Package pdftex.def Info: Liguria/Stemma Dolceacqua.png  used on input line 4832
+.
+(pdftex.def)             Requested size: 113.81297pt x 142.26576pt.
+<Liguria/Stemma Perinaldo.png, id=997, 494.84875pt x 507.8975pt>
+File: Liguria/Stemma Perinaldo.png Graphic file (type png)
+<use Liguria/Stemma Perinaldo.png>
+Package pdftex.def Info: Liguria/Stemma Perinaldo.png  used on input line 4848.
+
+(pdftex.def)             Requested size: 113.80527pt x 142.26457pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99 <./Liguria/Stemma Castelnuovo Magra.png> <./Liguria/Stemma Castelvecchio di
+ Rocca Barbena.png> <./Liguria/Stemma Dolceacqua.png> <./Liguria/Stemma Perinal
+do.png>]
+<Liguria/Stemma Pigna.png, id=1006, 1715.40875pt x 2055.68pt>
+File: Liguria/Stemma Pigna.png Graphic file (type png)
+<use Liguria/Stemma Pigna.png>
+Package pdftex.def Info: Liguria/Stemma Pigna.png  used on input line 4866.
+(pdftex.def)             Requested size: 113.80888pt x 142.24985pt.
+<Liguria/Stemma Pignone.png, id=1007, 199.74625pt x 254.9525pt>
+File: Liguria/Stemma Pignone.png Graphic file (type png)
+<use Liguria/Stemma Pignone.png>
+Package pdftex.def Info: Liguria/Stemma Pignone.png  used on input line 4882.
+(pdftex.def)             Requested size: 113.81082pt x 142.27057pt.
+<Liguria/Stemma Santo Stefano d'Aveto.png, id=1008, 167.62625pt x 220.825pt>
+File: Liguria/Stemma Santo Stefano d'Aveto.png Graphic file (type png)
+<use Liguria/Stemma Santo Stefano d'Aveto.png>
+Package pdftex.def Info: Liguria/Stemma Santo Stefano d'Aveto.png  used on inpu
+t line 4900.
+(pdftex.def)             Requested size: 113.8104pt x 142.27097pt.
+<Liguria/Stemma Sassello.png, id=1009, 282.05376pt x 501.875pt>
+File: Liguria/Stemma Sassello.png Graphic file (type png)
+<use Liguria/Stemma Sassello.png>
+Package pdftex.def Info: Liguria/Stemma Sassello.png  used on input line 4916.
+(pdftex.def)             Requested size: 113.80936pt x 142.26239pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[100 <./Liguria/Stemma Pigna.png> <./Liguria/Stemma Pignone.png> <./Liguria/Ste
+mma Santo Stefano d'Aveto.png> <./Liguria/Stemma Sassello.png>]
+<Liguria/Stemma Seborga.png, id=1018, 801.99625pt x 1027.84pt>
+File: Liguria/Stemma Seborga.png Graphic file (type png)
+<use Liguria/Stemma Seborga.png>
+Package pdftex.def Info: Liguria/Stemma Seborga.png  used on input line 4934.
+(pdftex.def)             Requested size: 113.80838pt x 142.24985pt.
+<Liguria/Stemma Toirano.png, id=1019, 205.76875pt x 246.9225pt>
+File: Liguria/Stemma Toirano.png Graphic file (type png)
+<use Liguria/Stemma Toirano.png>
+Package pdftex.def Info: Liguria/Stemma Toirano.png  used on input line 4950.
+(pdftex.def)             Requested size: 113.81052pt x 142.2619pt.
+<Liguria/Stemma Triora.png, id=1020, 1606.0pt x 2054.67625pt>
+File: Liguria/Stemma Triora.png Graphic file (type png)
+<use Liguria/Stemma Triora.png>
+Package pdftex.def Info: Liguria/Stemma Triora.png  used on input line 4968.
+(pdftex.def)             Requested size: 113.80379pt x 142.24309pt.
+<Liguria/Stemma Vallebona.png, id=1021, 199.74625pt x 254.9525pt>
+File: Liguria/Stemma Vallebona.png Graphic file (type png)
+<use Liguria/Stemma Vallebona.png>
+Package pdftex.def Info: Liguria/Stemma Vallebona.png  used on input line 4984.
+
+(pdftex.def)             Requested size: 113.81082pt x 142.27057pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[101 <./Liguria/Stemma Seborga.png> <./Liguria/Stemma Toirano.png> <./Liguria/S
+temma Triora.png> <./Liguria/Stemma Vallebona.png>]
+<Liguria/Stemma Varese Ligure.png, id=1030, 205.76875pt x 246.9225pt>
+File: Liguria/Stemma Varese Ligure.png Graphic file (type png)
+<use Liguria/Stemma Varese Ligure.png>
+Package pdftex.def Info: Liguria/Stemma Varese Ligure.png  used on input line 5
+002.
+(pdftex.def)             Requested size: 113.81052pt x 142.2619pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[102 <./Liguria/Stemma Varese Ligure.png>] (./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 14790 strings out of 473584
+ 286924 string characters out of 5732363
+ 1934908 words of memory out of 5000000
+ 37359 multiletter control sequences out of 15000+600000
+ 566877 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,11n,93p,552b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (102 pages, 71437756 bytes).
+PDF statistics:
+ 1085 PDF objects out of 1200 (max. 8388607)
+ 394 compressed objects within 4 object streams
+ 124 named destinations out of 1000 (max. 500000)
+ 1453 words of extra memory for PDF output out of 10000 (max. 10000000)
+
